@@ -13,6 +13,7 @@
   const resolution = byId("resolution");
   const fullscreen = byId("fullscreen");
   const card = document.querySelector(".card");
+  const stage = card.parentElement;
   const hasName = (index) => typeof names?.[index] === "string" && Boolean(names[index].trim());
   const first = Array.isArray(names) ? names.findIndex((_, index) => hasName(index)) : -1;
   if (first < 0 || names.length > 1000) {
@@ -118,10 +119,10 @@
   resolution.addEventListener("change", updateExportCommand);
   updateDuration();
 
-  if (document.fullscreenEnabled && card.requestFullscreen) {
+  if (document.fullscreenEnabled && stage.requestFullscreen) {
     fullscreen.hidden = false;
     fullscreen.addEventListener("click", () => {
-      card.requestFullscreen().catch(() => {
+      stage.requestFullscreen().catch(() => {
         byId("error").textContent = "Full screen is unavailable in this browser.";
         byId("error").hidden = false;
       });

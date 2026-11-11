@@ -48,14 +48,21 @@ h1 { margin: 0 0 .45rem; font: 1.65rem Georgia, serif; }
 .mantra, .card-title { color: #f5d7a8; font-size: 7cqw; }
 .mantra { top: 12%; }
 .card-footer { bottom: 12%; }
-.face { top: 50%; transform: translateY(-50%); }
+.face { position: relative; inset: auto; align-self: center; min-width: 0; margin-inline: 10%; }
 #count, #pagination { color: #f5d7a8; font-variant-numeric: tabular-nums; }
 #count { font-size: 5cqw; margin: 0 0 1.5cqw; }
 #pagination { font-size: 4cqw; margin: 1cqw 0 0; white-space: nowrap; }
-#name { color: #f9eddb; font-size: 14cqw; white-space: pre; }
+#name { color: #f9eddb; font-size: 14cqw; white-space: pre; letter-spacing: normal; }
+#name.fit-two-lines {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+  line-height: 1.65;
+  padding-inline: 2px;
+}
 .card:not(.font-ready) .fit-line { visibility: hidden; }
 .export main { width: 100%; padding: 0; }
-.export main > :not(.card) { display: none; }
+.export main > :not(.card-stage) { display: none; }
 .export .card { width: 100vw; height: 100vh; margin: 0; border-radius: 0; box-shadow: none; }
 .controls, form { display: flex; justify-content: center; align-items: center; gap: .45rem; flex-wrap: wrap; }
 form { margin-top: .6rem; }
@@ -75,8 +82,20 @@ button:disabled { opacity: .55; cursor: default; }
 input { width: 5.5rem; }
 #error { color: #ffd0cb; }
 .card { touch-action: pan-y pinch-zoom; }
-.card:fullscreen { width: min(100vw, 56.25vh); height: min(100vh, 177.7778vw); margin: auto; }
-.card::backdrop { background: #1d0d1c; }
+.card-stage:fullscreen { display: grid; place-items: center; background: #1d0d1c; }
+.card-stage:fullscreen .card { width: min(100%, 56.25vh); width: min(100%, 56.25dvh); margin: 0; }
+.card-stage::backdrop { background: #1d0d1c; }
+@media (orientation: landscape) {
+  .card-stage:fullscreen .card { width: 100%; height: 100%; aspect-ratio: auto; }
+  .card-stage:fullscreen .mantra, .card-stage:fullscreen .card-footer { inset-inline: 5%; }
+  .card-stage:fullscreen .mantra { top: 8%; }
+  .card-stage:fullscreen .card-footer { bottom: 8%; }
+  .card-stage:fullscreen .face { margin-inline: 5%; }
+  .card-stage:fullscreen .mantra, .card-stage:fullscreen .card-title { font-size: clamp(10px, 3.6dvh, 17px); }
+  .card-stage:fullscreen #count { font-size: clamp(10px, 3.3dvh, 16px); margin-bottom: clamp(3px, 1dvh, 7px); }
+  .card-stage:fullscreen #pagination { font-size: clamp(9px, 2.8dvh, 14px); margin-top: clamp(2px, .8dvh, 5px); }
+  .card-stage:fullscreen #name { font-size: clamp(18px, 17dvh, 92px); }
+}
 .playback-setting { margin: .6rem 0; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .5rem; }
 #duration { width: clamp(5rem, 30vw, 9rem); padding: 0; accent-color: #f5d7a8; }
 #duration-value { min-width: 4ch; text-align: right; font-variant-numeric: tabular-nums; }
