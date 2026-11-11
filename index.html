@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#230e20">
+<title>Sri Lalitha Sahasranamam</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="names.js"></script>
+<script defer src="fit-card.js"></script>
+<script defer src="slideshow.js"></script>
+</head>
+<body>
+<main>
+  <h1>Sri Lalitha Sahasranamam</h1>
+  <p id="preview">Three-card preview · Original 1,000-name source pending</p>
+  <details class="review-tools" id="review-tools" hidden>
+    <summary>Manual review shortcuts</summary>
+    <div class="review-group" role="group" aria-label="Selected review cards">
+      <button type="button" data-review-name="1">001</button>
+      <button type="button" data-review-name="100">100</button>
+      <button type="button" data-review-name="200">200</button>
+      <button type="button" data-review-name="500">500</button>
+      <button type="button" data-review-name="750">750</button>
+      <button type="button" data-review-name="922">922</button>
+      <button type="button" data-review-name="999">999</button>
+      <button type="button" data-review-name="1000">1000</button>
+    </div>
+    <p id="longest-label">Longest names in the approved font</p>
+    <div class="review-group" role="group" aria-labelledby="longest-label">
+      <button type="button" data-review-name="365">365</button>
+      <button type="button" data-review-name="83">083</button>
+      <button type="button" data-review-name="25">025</button>
+    </div>
+  </details>
+  <article class="card" aria-label="Flashcard">
+    <p class="mantra fit-line" lang="te">ఓం ఐం హ్రీం శ్రీం శ్రీమాత్రే నమః</p>
+    <div class="face" aria-live="polite" aria-atomic="true">
+      <p id="count"></p>
+      <p id="name" class="fit-line" lang="te"></p>
+    </div>
+    <footer class="card-footer">
+      <p class="card-title fit-line" lang="te">శ్రీ లలితా సహస్రనామావళి</p>
+      <p id="pagination"></p>
+    </footer>
+  </article>
+  <div class="controls" role="group" aria-label="Slideshow controls">
+    <button id="previous" type="button">← Previous</button>
+    <button id="play" type="button">Play from Here</button>
+    <button id="next" type="button">Next →</button>
+    <button id="fullscreen" type="button" hidden>Full screen</button>
+  </div>
+  <form id="jump" novalidate>
+    <label for="number">Go to Name</label>
+    <input id="number" type="number" min="1" max="1000" step="1" inputmode="numeric" aria-describedby="jump-message" required>
+    <button type="submit">Go</button>
+  </form>
+  <p id="jump-message" role="status"></p>
+  <button id="resume" type="button" hidden></button>
+  <p class="playback-setting">
+    <label for="duration">Seconds per card</label>
+    <input id="duration" type="range" min="1" max="10" step="0.5" value="3" aria-valuetext="3 seconds per card">
+    <output id="duration-value" for="duration">3 s</output>
+  </p>
+  <details class="export-tools">
+    <summary>Local PNG and MP4 export</summary>
+    <p>Run these commands in a terminal opened in the slideshow folder.</p>
+    <label for="resolution">PNG resolution</label>
+    <select id="resolution">
+      <option value="1080">1080 × 1920</option>
+      <option value="2160">2160 × 3840</option>
+    </select>
+    <p><code id="png-command"></code></p>
+    <p><code>python scripts/make_video.py sample-export/manifest.json --output sample-export/preview.mp4</code></p>
+    <p>PNG export requires Playwright with Chromium. MP4 export requires FFmpeg.</p>
+  </details>
+  <p id="error" role="alert" hidden>Could not load the flashcard text.</p>
+</main>
+</body>
+</html>

@@ -1,0 +1,7002 @@
+[
+  {
+    "number": 1,
+    "original": "శ్రీమాతా।",
+    "display": "శ్రీమాతా।",
+    "source_line": 1,
+    "original_number": 1
+  },
+  {
+    "number": 2,
+    "original": "శ్రీమహారాజ్ఞీ।",
+    "display": "శ్రీమహారాజ్ఞీ।",
+    "source_line": 2,
+    "original_number": 2
+  },
+  {
+    "number": 3,
+    "original": "శ్రీమత్సింహాసనేశ్వరీ।",
+    "display": "శ్రీమత్సింహాసనేశ్వరీ।",
+    "source_line": 3,
+    "original_number": 3
+  },
+  {
+    "number": 4,
+    "original": "చిదగ్నికుండసంభూతా।",
+    "display": "చిదగ్నికుండసంభూతా।",
+    "source_line": 3,
+    "original_number": 4
+  },
+  {
+    "number": 5,
+    "original": "దేవకార్యసముద్యతా।",
+    "display": "దేవకార్యసముద్యతా।",
+    "source_line": 3,
+    "original_number": 5
+  },
+  {
+    "number": 6,
+    "original": "ఉద్యద్భానుసహస్రాభా।",
+    "display": "ఉద్యద్భానుసహస్రాభా।",
+    "source_line": 5,
+    "original_number": 6
+  },
+  {
+    "number": 7,
+    "original": "చతుర్బాహుసమన్వితా।",
+    "display": "చతుర్బాహుసమన్వితా।",
+    "source_line": 5,
+    "original_number": 7
+  },
+  {
+    "number": 8,
+    "original": "రాగస్వరూపపాశాఢ్యా।",
+    "display": "రాగస్వరూపపాశాఢ్యా।",
+    "source_line": 6,
+    "original_number": 8
+  },
+  {
+    "number": 9,
+    "original": "క్రోధాకారాంకుశోజ్జ్వలా।",
+    "display": "క్రోధాకారాంకుశోజ్జ్వలా।",
+    "source_line": 6,
+    "original_number": 9
+  },
+  {
+    "number": 10,
+    "original": "మనోరూపేక్షుకోదండా।",
+    "display": "మనోరూపేక్షుకోదండా।",
+    "source_line": 8,
+    "original_number": 10
+  },
+  {
+    "number": 11,
+    "original": "పంచతన్మాత్రసాయకా।",
+    "display": "పంచతన్మాత్రసాయకా।",
+    "source_line": 8,
+    "original_number": 11
+  },
+  {
+    "number": 12,
+    "original": "నిజారుణప్రభాపూరమజ్జద్బ్రహ్మాండమండలా।",
+    "display": "నిజారుణప్రభాపూరమజ్జద్బ్రహ్మాండమండలా।",
+    "source_line": 9,
+    "original_number": 12
+  },
+  {
+    "number": 13,
+    "original": "చంపకాశోకపున్నాగసౌగంధికలసత్కచా।",
+    "display": "చంపకాశోకపున్నాగసౌగంధికలసత్కచా।",
+    "source_line": 11,
+    "original_number": 13
+  },
+  {
+    "number": 14,
+    "original": "కురువిందమణిశ్రేణీకనత్కోటీరమండితా।",
+    "display": "కురువిందమణిశ్రేణీకనత్కోటీరమండితా।",
+    "source_line": 12,
+    "original_number": 14
+  },
+  {
+    "number": 15,
+    "original": "అష్టమీచంద్రవిభ్రాజదళికస్థలశోభితా।",
+    "display": "అష్టమీచంద్రవిభ్రాజదళికస్థలశోభితా।",
+    "source_line": 14,
+    "original_number": 15
+  },
+  {
+    "number": 16,
+    "original": "ముఖచంద్రకళంకాభమృగనాభివిశేషకా।",
+    "display": "ముఖచంద్రకళంకాభమృగనాభివిశేషకా।",
+    "source_line": 15,
+    "original_number": 16
+  },
+  {
+    "number": 17,
+    "original": "వదనస్మరమాంగళ్యగృహతోరణచిల్లికా।",
+    "display": "వదనస్మరమాంగళ్యగృహతోరణచిల్లికా।",
+    "source_line": 16,
+    "original_number": 17
+  },
+  {
+    "number": 18,
+    "original": "వక్త్రలక్ష్మీపరీవాహచలన్మీనాభలోచనా।",
+    "display": "వక్త్రలక్ష్మీపరీవాహచలన్మీనాభలోచనా।",
+    "source_line": 17,
+    "original_number": 18
+  },
+  {
+    "number": 19,
+    "original": "నవచంపకపుష్పాభనాసాదండవిరాజితా।",
+    "display": "నవచంపకపుష్పాభనాసాదండవిరాజితా।",
+    "source_line": 19,
+    "original_number": 19
+  },
+  {
+    "number": 20,
+    "original": "తారాకాంతితిరస్కారినాసాభరణభాసురా।",
+    "display": "తారాకాంతితిరస్కారినాసాభరణభాసురా।",
+    "source_line": 20,
+    "original_number": 20
+  },
+  {
+    "number": 21,
+    "original": "కదంబమంజరీక్లప్తకర్ణపూరమనోహరా।",
+    "display": "కదంబమంజరీక్లప్తకర్ణపూరమనోహరా।",
+    "source_line": 22,
+    "original_number": 21
+  },
+  {
+    "number": 22,
+    "original": "తాటంకయుగళీభూతతపనోడుపమండలా।",
+    "display": "తాటంకయుగళీభూతతపనోడుపమండలా।",
+    "source_line": 23,
+    "original_number": 22
+  },
+  {
+    "number": 23,
+    "original": "పద్మరాగశిలాదర్శపరిభావికపోలభూః।",
+    "display": "పద్మరాగశిలాదర్శపరిభావికపోలభూః।",
+    "source_line": 25,
+    "original_number": 23
+  },
+  {
+    "number": 24,
+    "original": "నవవిద్రుమబింబశ్రీన్యక్కారిరదనచ్ఛదా।",
+    "display": "నవవిద్రుమబింబశ్రీన్యక్కారిరదనచ్ఛదా।",
+    "source_line": 26,
+    "original_number": 24
+  },
+  {
+    "number": 25,
+    "original": "శుద్ధవిద్యాంకురాకారద్విజపంక్తిద్వయోజ్జ్వలా।",
+    "display": "శుద్ధవిద్యాంకురాకారద్విజపంక్తిద్వయోజ్జ్వలా।",
+    "source_line": 27,
+    "original_number": 25
+  },
+  {
+    "number": 26,
+    "original": "కర్పూరవీటికామోదసమాకర్షద్దిగంతరా।",
+    "display": "కర్పూరవీటికామోదసమాకర్షద్దిగంతరా।",
+    "source_line": 28,
+    "original_number": 26
+  },
+  {
+    "number": 27,
+    "original": "నిజసల్లాపమాధుర్యవినిర్భర్త్సితకచ్ఛపీ।",
+    "display": "నిజసల్లాపమాధుర్యవినిర్భర్త్సితకచ్ఛపీ।",
+    "source_line": 29,
+    "original_number": 27
+  },
+  {
+    "number": 28,
+    "original": "మందస్మితప్రభాపూరమజ్జత్కామేశమానసా।",
+    "display": "మందస్మితప్రభాపూరమజ్జత్కామేశమానసా।",
+    "source_line": 30,
+    "original_number": 28
+  },
+  {
+    "number": 29,
+    "original": "అనాకలితసాదృశ్యచుబుకశ్రీవిరాజితా।",
+    "display": "అనాకలితసాదృశ్యచుబుకశ్రీవిరాజితా।",
+    "source_line": 32,
+    "original_number": 29
+  },
+  {
+    "number": 30,
+    "original": "కామేశబద్ధమాంగళ్యసూత్రశోభితకంధరా।",
+    "display": "కామేశబద్ధమాంగళ్యసూత్రశోభితకంధరా।",
+    "source_line": 33,
+    "original_number": 30
+  },
+  {
+    "number": 31,
+    "original": "కనకాంగదకేయూరకమనీయభుజాన్వితా।",
+    "display": "కనకాంగదకేయూరకమనీయభుజాన్వితా।",
+    "source_line": 35,
+    "original_number": 31
+  },
+  {
+    "number": 32,
+    "original": "రత్నగ్రైవేయచింతాకలోలముక్తాఫలాన్వితా।",
+    "display": "రత్నగ్రైవేయచింతాకలోలముక్తాఫలాన్వితా।",
+    "source_line": 36,
+    "original_number": 32
+  },
+  {
+    "number": 33,
+    "original": "కామేశ్వరప్రేమరత్నమణిప్రతిపణస్తనీ।",
+    "display": "కామేశ్వరప్రేమరత్నమణిప్రతిపణస్తనీ।",
+    "source_line": 38,
+    "original_number": 33
+  },
+  {
+    "number": 34,
+    "original": "నాభ్యాలవాలరోమాళిలతాఫలకుచద్వయీ।",
+    "display": "నాభ్యాలవాలరోమాళిలతాఫలకుచద్వయీ।",
+    "source_line": 39,
+    "original_number": 34
+  },
+  {
+    "number": 35,
+    "original": "లక్ష్యరోమలతాధారతాసమున్నేయమధ్యమా।",
+    "display": "లక్ష్యరోమలతాధారతాసమున్నేయమధ్యమా।",
+    "source_line": 41,
+    "original_number": 35
+  },
+  {
+    "number": 36,
+    "original": "స్తనభారదలన్మధ్యపట్టబంధవళిత్రయా।",
+    "display": "స్తనభారదలన్మధ్యపట్టబంధవళిత్రయా।",
+    "source_line": 42,
+    "original_number": 36
+  },
+  {
+    "number": 37,
+    "original": "అరుణారుణకౌసుంభవస్త్రభాస్వత్కటీతటీ।",
+    "display": "అరుణారుణకౌసుంభవస్త్రభాస్వత్కటీతటీ।",
+    "source_line": 43,
+    "original_number": 37
+  },
+  {
+    "number": 38,
+    "original": "రత్నకింకిణికారమ్యరశనాదామభూషితా।",
+    "display": "రత్నకింకిణికారమ్యరశనాదామభూషితా।",
+    "source_line": 44,
+    "original_number": 38
+  },
+  {
+    "number": 39,
+    "original": "కామేశజ్ఞాతసౌభాగ్యమార్దవోరుద్వయాన్వితా।",
+    "display": "కామేశజ్ఞాతసౌభాగ్యమార్దవోరుద్వయాన్వితా।",
+    "source_line": 46,
+    "original_number": 39
+  },
+  {
+    "number": 40,
+    "original": "మాణిక్యమకుటాకారజానుద్వయవిరాజితా।",
+    "display": "మాణిక్యమకుటాకారజానుద్వయవిరాజితా।",
+    "source_line": 47,
+    "original_number": 40
+  },
+  {
+    "number": 41,
+    "original": "ఇంద్రగోపపరిక్షిప్తస్మరతూణాభజంఘికా।",
+    "display": "ఇంద్రగోపపరిక్షిప్తస్మరతూణాభజంఘికా।",
+    "source_line": 49,
+    "original_number": 41
+  },
+  {
+    "number": 42,
+    "original": "గూఢగుల్ఫా।",
+    "display": "గూఢగుల్ఫా।",
+    "source_line": 50,
+    "original_number": 42
+  },
+  {
+    "number": 43,
+    "original": "కూర్మపృష్ఠజయిష్ణుప్రపదాన్వితా।",
+    "display": "కూర్మపృష్ఠజయిష్ణుప్రపదాన్వితా।",
+    "source_line": 50,
+    "original_number": 43
+  },
+  {
+    "number": 44,
+    "original": "నఖదీధితిసంఛన్ననమజ్జనతమోగుణా।",
+    "display": "నఖదీధితిసంఛన్ననమజ్జనతమోగుణా।",
+    "source_line": 52,
+    "original_number": 44
+  },
+  {
+    "number": 45,
+    "original": "పదద్వయప్రభాజాలపరాకృతసరోరుహా।",
+    "display": "పదద్వయప్రభాజాలపరాకృతసరోరుహా।",
+    "source_line": 53,
+    "original_number": 45
+  },
+  {
+    "number": 46,
+    "original": "శింజానమణిమంజీరమండితశ్రీపదాంబుజా।",
+    "display": "శింజానమణిమంజీరమండితశ్రీపదాంబుజా।",
+    "source_line": 54,
+    "original_number": 46
+  },
+  {
+    "number": 47,
+    "original": "మరాళీమందగమనా।",
+    "display": "మరాళీమందగమనా।",
+    "source_line": 55,
+    "original_number": 47
+  },
+  {
+    "number": 48,
+    "original": "మహాలావణ్యశేవధిః।",
+    "display": "మహాలావణ్యశేవధిః।",
+    "source_line": 55,
+    "original_number": 48
+  },
+  {
+    "number": 49,
+    "original": "సర్వారుణా।",
+    "display": "సర్వారుణా।",
+    "source_line": 57,
+    "original_number": 49
+  },
+  {
+    "number": 50,
+    "original": "అనవద్యాంగీ।",
+    "display": "అనవద్యాంగీ।",
+    "source_line": 57,
+    "original_number": 50
+  },
+  {
+    "number": 51,
+    "original": "సర్వాభరణభూషితా।",
+    "display": "సర్వాభరణభూషితా।",
+    "source_line": 57,
+    "original_number": 51
+  },
+  {
+    "number": 52,
+    "original": "శివకామేశ్వరాంకస్థా।",
+    "display": "శివకామేశ్వరాంకస్థా।",
+    "source_line": 58,
+    "original_number": 52
+  },
+  {
+    "number": 53,
+    "original": "శివా।",
+    "display": "శివా।",
+    "source_line": 58,
+    "original_number": 53
+  },
+  {
+    "number": 54,
+    "original": "స్వాధీనవల్లభా।",
+    "display": "స్వాధీనవల్లభా।",
+    "source_line": 59,
+    "original_number": 54
+  },
+  {
+    "number": 55,
+    "original": "సుమేరుమధ్యశృంగస్థా।",
+    "display": "సుమేరుమధ్యశృంగస్థా।",
+    "source_line": 61,
+    "original_number": 55
+  },
+  {
+    "number": 56,
+    "original": "శ్రీమన్నగరనాయికా।",
+    "display": "శ్రీమన్నగరనాయికా।",
+    "source_line": 61,
+    "original_number": 56
+  },
+  {
+    "number": 57,
+    "original": "చింతామణిగృహాంతస్థా।",
+    "display": "చింతామణిగృహాంతస్థా।",
+    "source_line": 62,
+    "original_number": 57
+  },
+  {
+    "number": 58,
+    "original": "పంచబ్రహ్మాసనస్థితా।",
+    "display": "పంచబ్రహ్మాసనస్థితా।",
+    "source_line": 62,
+    "original_number": 58
+  },
+  {
+    "number": 59,
+    "original": "మహాపద్మాటవీసంస్థా।",
+    "display": "మహాపద్మాటవీసంస్థా।",
+    "source_line": 63,
+    "original_number": 59
+  },
+  {
+    "number": 60,
+    "original": "కదంబవనవాసినీ।",
+    "display": "కదంబవనవాసినీ।",
+    "source_line": 63,
+    "original_number": 60
+  },
+  {
+    "number": 61,
+    "original": "సుధాసాగరమధ్యస్థా।",
+    "display": "సుధాసాగరమధ్యస్థా।",
+    "source_line": 64,
+    "original_number": 61
+  },
+  {
+    "number": 62,
+    "original": "కామాక్షీ।",
+    "display": "కామాక్షీ।",
+    "source_line": 64,
+    "original_number": 62
+  },
+  {
+    "number": 63,
+    "original": "కామదాయినీ।",
+    "display": "కామదాయినీ।",
+    "source_line": 64,
+    "original_number": 63
+  },
+  {
+    "number": 64,
+    "original": "దేవర్షిగణసంఘాతస్తూయమానాత్మవైభవా।",
+    "display": "దేవర్షిగణసంఘాతస్తూయమానాత్మవైభవా।",
+    "source_line": 66,
+    "original_number": 64
+  },
+  {
+    "number": 65,
+    "original": "భండాసురవధోద్యుక్తశక్తిసేనాసమన్వితా।",
+    "display": "భండాసురవధోద్యుక్తశక్తిసేనాసమన్వితా।",
+    "source_line": 67,
+    "original_number": 65
+  },
+  {
+    "number": 66,
+    "original": "సంపత్కరీసమారూఢసింధురవ్రజసేవితా।",
+    "display": "సంపత్కరీసమారూఢసింధురవ్రజసేవితా।",
+    "source_line": 69,
+    "original_number": 66
+  },
+  {
+    "number": 67,
+    "original": "అశ్వారూఢాధిష్ఠితాశ్వకోటికోటిభిరావృతా।",
+    "display": "అశ్వారూఢాధిష్ఠితాశ్వకోటికోటిభిరావృతా।",
+    "source_line": 70,
+    "original_number": 67
+  },
+  {
+    "number": 68,
+    "original": "చక్రరాజరథారూఢసర్వాయుధపరిష్కృతా।",
+    "display": "చక్రరాజరథారూఢసర్వాయుధపరిష్కృతా।",
+    "source_line": 72,
+    "original_number": 68
+  },
+  {
+    "number": 69,
+    "original": "గేయచక్రరథారూఢమంత్రిణీపరిసేవితా।",
+    "display": "గేయచక్రరథారూఢమంత్రిణీపరిసేవితా।",
+    "source_line": 73,
+    "original_number": 69
+  },
+  {
+    "number": 70,
+    "original": "కిరిచక్రరథారూఢదండనాథాపురస్కృతా।",
+    "display": "కిరిచక్రరథారూఢదండనాథాపురస్కృతా।",
+    "source_line": 75,
+    "original_number": 70
+  },
+  {
+    "number": 71,
+    "original": "జ్వాలామాలినికాక్షిప్తవహ్నిప్రాకారమధ్యగా।",
+    "display": "జ్వాలామాలినికాక్షిప్తవహ్నిప్రాకారమధ్యగా।",
+    "source_line": 76,
+    "original_number": 71
+  },
+  {
+    "number": 72,
+    "original": "భండసైన్యవధోద్యుక్తశక్తివిక్రమహర్షితా।",
+    "display": "భండసైన్యవధోద్యుక్తశక్తివిక్రమహర్షితా।",
+    "source_line": 77,
+    "original_number": 72
+  },
+  {
+    "number": 73,
+    "original": "నిత్యాపరాక్రమాటోపనిరీక్షణసముత్సుకా।",
+    "display": "నిత్యాపరాక్రమాటోపనిరీక్షణసముత్సుకా।",
+    "source_line": 78,
+    "original_number": 73
+  },
+  {
+    "number": 74,
+    "original": "భండపుత్రవధోద్యుక్తబాలావిక్రమనందితా।",
+    "display": "భండపుత్రవధోద్యుక్తబాలావిక్రమనందితా।",
+    "source_line": 79,
+    "original_number": 74
+  },
+  {
+    "number": 75,
+    "original": "మంత్రిణ్యంబావిరచితవిషంగవధతోషితా।",
+    "display": "మంత్రిణ్యంబావిరచితవిషంగవధతోషితా।",
+    "source_line": 80,
+    "original_number": 75
+  },
+  {
+    "number": 76,
+    "original": "విశుక్రప్రాణహరణవారాహీవీర్యనందితా।",
+    "display": "విశుక్రప్రాణహరణవారాహీవీర్యనందితా।",
+    "source_line": 81,
+    "original_number": 76
+  },
+  {
+    "number": 77,
+    "original": "కామేశ్వరముఖాలోకకల్పితశ్రీగణేశ్వరా।",
+    "display": "కామేశ్వరముఖాలోకకల్పితశ్రీగణేశ్వరా।",
+    "source_line": 82,
+    "original_number": 77
+  },
+  {
+    "number": 78,
+    "original": "మహాగణేశనిర్భిన్నవిఘ్నయంత్రప్రహర్షితా।",
+    "display": "మహాగణేశనిర్భిన్నవిఘ్నయంత్రప్రహర్షితా।",
+    "source_line": 84,
+    "original_number": 78
+  },
+  {
+    "number": 79,
+    "original": "భండాసురేంద్రనిర్ముక్తశస్త్రప్రత్యస్త్రవర్షిణీ।",
+    "display": "భండాసురేంద్రనిర్ముక్తశస్త్రప్రత్యస్త్రవర్షిణీ।",
+    "source_line": 85,
+    "original_number": 79
+  },
+  {
+    "number": 80,
+    "original": "కరాంగుళినఖోత్పన్ననారాయణదశాకృతిః।",
+    "display": "కరాంగుళినఖోత్పన్ననారాయణదశాకృతిః।",
+    "source_line": 87,
+    "original_number": 80
+  },
+  {
+    "number": 81,
+    "original": "మహాపాశుపతాస్త్రాగ్నినిర్దగ్ధాసురసైనికా।",
+    "display": "మహాపాశుపతాస్త్రాగ్నినిర్దగ్ధాసురసైనికా।",
+    "source_line": 88,
+    "original_number": 81
+  },
+  {
+    "number": 82,
+    "original": "కామేశ్వరాస్త్రనిర్దగ్ధసభండాసురశూన్యకా।",
+    "display": "కామేశ్వరాస్త్రనిర్దగ్ధసభండాసురశూన్యకా।",
+    "source_line": 90,
+    "original_number": 82
+  },
+  {
+    "number": 83,
+    "original": "బ్రహ్మోపేంద్రమహేంద్రాదిదేవసంస్తుతవైభవా।",
+    "display": "బ్రహ్మోపేంద్రమహేంద్రాదిదేవసంస్తుతవైభవా।",
+    "source_line": 91,
+    "original_number": 83
+  },
+  {
+    "number": 84,
+    "original": "హరనేత్రాగ్నిసందగ్ధకామసంజీవనౌషధిః।",
+    "display": "హరనేత్రాగ్నిసందగ్ధకామసంజీవనౌషధిః।",
+    "source_line": 92,
+    "original_number": 84
+  },
+  {
+    "number": 85,
+    "original": "శ్రీమద్వాగ్భవకూటైకస్వరూపముఖపంకజా।",
+    "display": "శ్రీమద్వాగ్భవకూటైకస్వరూపముఖపంకజా।",
+    "source_line": 93,
+    "original_number": 85
+  },
+  {
+    "number": 86,
+    "original": "కంఠాధఃకటిపర్యంతమధ్యకూటస్వరూపిణీ।",
+    "display": "కంఠాధఃకటిపర్యంతమధ్యకూటస్వరూపిణీ।",
+    "source_line": 95,
+    "original_number": 86
+  },
+  {
+    "number": 87,
+    "original": "శక్తికూటైకతాపన్నకట్యధోభాగధారిణీ।",
+    "display": "శక్తికూటైకతాపన్నకట్యధోభాగధారిణీ।",
+    "source_line": 96,
+    "original_number": 87
+  },
+  {
+    "number": 88,
+    "original": "మూలమంత్రాత్మికా।",
+    "display": "మూలమంత్రాత్మికా।",
+    "source_line": 98,
+    "original_number": 88
+  },
+  {
+    "number": 89,
+    "original": "మూలకూటత్రయకళేబరా।",
+    "display": "మూలకూటత్రయకళేబరా।",
+    "source_line": 98,
+    "original_number": 89
+  },
+  {
+    "number": 90,
+    "original": "కులామృతైకరసికా।",
+    "display": "కులామృతైకరసికా।",
+    "source_line": 99,
+    "original_number": 90
+  },
+  {
+    "number": 91,
+    "original": "కులసంకేతపాలినీ।",
+    "display": "కులసంకేతపాలినీ।",
+    "source_line": 99,
+    "original_number": 91
+  },
+  {
+    "number": 92,
+    "original": "కులాంగనా।",
+    "display": "కులాంగనా।",
+    "source_line": 101,
+    "original_number": 92
+  },
+  {
+    "number": 93,
+    "original": "కులాంతస్థా।",
+    "display": "కులాంతస్థా।",
+    "source_line": 101,
+    "original_number": 93
+  },
+  {
+    "number": 94,
+    "original": "కౌళినీ।",
+    "display": "కౌళినీ।",
+    "source_line": 101,
+    "original_number": 94
+  },
+  {
+    "number": 95,
+    "original": "కులయోగినీ।",
+    "display": "కులయోగినీ।",
+    "source_line": 101,
+    "original_number": 95
+  },
+  {
+    "number": 96,
+    "original": "అకులా।",
+    "display": "అకులా।",
+    "source_line": 102,
+    "original_number": 96
+  },
+  {
+    "number": 97,
+    "original": "సమయాంతస్థా।",
+    "display": "సమయాంతస్థా।",
+    "source_line": 102,
+    "original_number": 97
+  },
+  {
+    "number": 98,
+    "original": "సమయాచారతత్పరా।",
+    "display": "సమయాచారతత్పరా।",
+    "source_line": 102,
+    "original_number": 98
+  },
+  {
+    "number": 99,
+    "original": "మూలాధారైకనిలయా।",
+    "display": "మూలాధారైకనిలయా।",
+    "source_line": 104,
+    "original_number": 99
+  },
+  {
+    "number": 100,
+    "original": "బ్రహ్మగ్రంథివిభేదినీ।",
+    "display": "బ్రహ్మగ్రంథివిభేదినీ।",
+    "source_line": 104,
+    "original_number": 100
+  },
+  {
+    "number": 101,
+    "original": "మణిపూరాంతరుదితా।",
+    "display": "మణిపూరాంతరుదితా।",
+    "source_line": 105,
+    "original_number": 101
+  },
+  {
+    "number": 102,
+    "original": "విష్ణుగ్రంథివిభేదినీ।",
+    "display": "విష్ణుగ్రంథివిభేదినీ।",
+    "source_line": 105,
+    "original_number": 102
+  },
+  {
+    "number": 103,
+    "original": "ఆజ్ఞాచక్రాంతరాళస్థా।",
+    "display": "ఆజ్ఞాచక్రాంతరాళస్థా।",
+    "source_line": 107,
+    "original_number": 103
+  },
+  {
+    "number": 104,
+    "original": "రుద్రగ్రంథివిభేదినీ।",
+    "display": "రుద్రగ్రంథివిభేదినీ।",
+    "source_line": 107,
+    "original_number": 104
+  },
+  {
+    "number": 105,
+    "original": "సహస్రారాంబుజారూఢా।",
+    "display": "సహస్రారాంబుజారూఢా।",
+    "source_line": 108,
+    "original_number": 105
+  },
+  {
+    "number": 106,
+    "original": "సుధాసారాభివర్షిణీ।",
+    "display": "సుధాసారాభివర్షిణీ।",
+    "source_line": 108,
+    "original_number": 106
+  },
+  {
+    "number": 107,
+    "original": "తటిల్లతాసమరుచిః।",
+    "display": "తటిల్లతాసమరుచిః।",
+    "source_line": 110,
+    "original_number": 107
+  },
+  {
+    "number": 108,
+    "original": "షట్చక్రోపరిసంస్థితా।",
+    "display": "షట్చక్రోపరిసంస్థితా।",
+    "source_line": 110,
+    "original_number": 108
+  },
+  {
+    "number": 109,
+    "original": "మహాశక్తిః।",
+    "display": "మహాశక్తిః।",
+    "source_line": 111,
+    "original_number": 109
+  },
+  {
+    "number": 110,
+    "original": "కుండలినీ।",
+    "display": "కుండలినీ।",
+    "source_line": 111,
+    "original_number": 110
+  },
+  {
+    "number": 111,
+    "original": "బిసతంతుతనీయసీ।",
+    "display": "బిసతంతుతనీయసీ।",
+    "source_line": 111,
+    "original_number": 111
+  },
+  {
+    "number": 112,
+    "original": "భవానీ।",
+    "display": "భవానీ।",
+    "source_line": 112,
+    "original_number": 112
+  },
+  {
+    "number": 113,
+    "original": "భావనాగమ్యా।",
+    "display": "భావనాగమ్యా।",
+    "source_line": 112,
+    "original_number": 113
+  },
+  {
+    "number": 114,
+    "original": "భవారణ్యకుఠారికా।",
+    "display": "భవారణ్యకుఠారికా।",
+    "source_line": 112,
+    "original_number": 114
+  },
+  {
+    "number": 115,
+    "original": "భద్రప్రియా।",
+    "display": "భద్రప్రియా।",
+    "source_line": 113,
+    "original_number": 115
+  },
+  {
+    "number": 116,
+    "original": "భద్రమూర్తి।",
+    "display": "భద్రమూర్తి।",
+    "source_line": 113,
+    "original_number": 116
+  },
+  {
+    "number": 117,
+    "original": "భక్తసౌభాగ్యదాయినీ।",
+    "display": "భక్తసౌభాగ్యదాయినీ।",
+    "source_line": 113,
+    "original_number": 117
+  },
+  {
+    "number": 118,
+    "original": "భక్తప్రియా।",
+    "display": "భక్తప్రియా।",
+    "source_line": 114,
+    "original_number": 118
+  },
+  {
+    "number": 119,
+    "original": "భక్తిగమ్యా।",
+    "display": "భక్తిగమ్యా।",
+    "source_line": 114,
+    "original_number": 119
+  },
+  {
+    "number": 120,
+    "original": "భక్తివశ్యా।",
+    "display": "భక్తివశ్యా।",
+    "source_line": 114,
+    "original_number": 120
+  },
+  {
+    "number": 121,
+    "original": "భయాపహా।",
+    "display": "భయాపహా।",
+    "source_line": 114,
+    "original_number": 121
+  },
+  {
+    "number": 122,
+    "original": "శాంభవీ।",
+    "display": "శాంభవీ।",
+    "source_line": 115,
+    "original_number": 122
+  },
+  {
+    "number": 123,
+    "original": "శారదారాధ్యా।",
+    "display": "శారదారాధ్యా।",
+    "source_line": 115,
+    "original_number": 123
+  },
+  {
+    "number": 124,
+    "original": "శర్వాణీ।",
+    "display": "శర్వాణీ।",
+    "source_line": 115,
+    "original_number": 124
+  },
+  {
+    "number": 125,
+    "original": "శర్మదాయినీ।",
+    "display": "శర్మదాయినీ।",
+    "source_line": 115,
+    "original_number": 125
+  },
+  {
+    "number": 126,
+    "original": "శాంకరీ।",
+    "display": "శాంకరీ।",
+    "source_line": 117,
+    "original_number": 126
+  },
+  {
+    "number": 127,
+    "original": "శ్రీకరీ।",
+    "display": "శ్రీకరీ।",
+    "source_line": 117,
+    "original_number": 127
+  },
+  {
+    "number": 128,
+    "original": "సాధ్వీ।",
+    "display": "సాధ్వీ।",
+    "source_line": 117,
+    "original_number": 128
+  },
+  {
+    "number": 129,
+    "original": "శరచ్చంద్రనిభాననా।",
+    "display": "శరచ్చంద్రనిభాననా।",
+    "source_line": 117,
+    "original_number": 129
+  },
+  {
+    "number": 130,
+    "original": "శాతోదరీ।",
+    "display": "శాతోదరీ।",
+    "source_line": 118,
+    "original_number": 130
+  },
+  {
+    "number": 131,
+    "original": "శాంతిమతీ।",
+    "display": "శాంతిమతీ।",
+    "source_line": 118,
+    "original_number": 131
+  },
+  {
+    "number": 132,
+    "original": "నిరాధారా।",
+    "display": "నిరాధారా।",
+    "source_line": 118,
+    "original_number": 132
+  },
+  {
+    "number": 133,
+    "original": "నిరంజనా।",
+    "display": "నిరంజనా।",
+    "source_line": 118,
+    "original_number": 133
+  },
+  {
+    "number": 134,
+    "original": "నిర్లేపా।",
+    "display": "నిర్లేపా।",
+    "source_line": 120,
+    "original_number": 134
+  },
+  {
+    "number": 135,
+    "original": "నిర్మలా।",
+    "display": "నిర్మలా।",
+    "source_line": 120,
+    "original_number": 135
+  },
+  {
+    "number": 136,
+    "original": "నిత్యా।",
+    "display": "నిత్యా।",
+    "source_line": 120,
+    "original_number": 136
+  },
+  {
+    "number": 137,
+    "original": "నిరాకారా।",
+    "display": "నిరాకారా।",
+    "source_line": 120,
+    "original_number": 137
+  },
+  {
+    "number": 138,
+    "original": "నిరాకులా।",
+    "display": "నిరాకులా।",
+    "source_line": 120,
+    "original_number": 138
+  },
+  {
+    "number": 139,
+    "original": "నిర్గుణా।",
+    "display": "నిర్గుణా।",
+    "source_line": 121,
+    "original_number": 139
+  },
+  {
+    "number": 140,
+    "original": "నిష్కలా।",
+    "display": "నిష్కలా।",
+    "source_line": 121,
+    "original_number": 140
+  },
+  {
+    "number": 141,
+    "original": "శాంతా।",
+    "display": "శాంతా।",
+    "source_line": 121,
+    "original_number": 141
+  },
+  {
+    "number": 142,
+    "original": "నిష్కామా।",
+    "display": "నిష్కామా।",
+    "source_line": 121,
+    "original_number": 142
+  },
+  {
+    "number": 143,
+    "original": "నిరుపప్లవా।",
+    "display": "నిరుపప్లవా।",
+    "source_line": 121,
+    "original_number": 143
+  },
+  {
+    "number": 144,
+    "original": "నిత్యముక్తా।",
+    "display": "నిత్యముక్తా।",
+    "source_line": 123,
+    "original_number": 144
+  },
+  {
+    "number": 145,
+    "original": "నిర్వికారా।",
+    "display": "నిర్వికారా।",
+    "source_line": 123,
+    "original_number": 145
+  },
+  {
+    "number": 146,
+    "original": "నిష్ప్రపంచా।",
+    "display": "నిష్ప్రపంచా।",
+    "source_line": 123,
+    "original_number": 146
+  },
+  {
+    "number": 147,
+    "original": "నిరాశ్రయా।",
+    "display": "నిరాశ్రయా।",
+    "source_line": 123,
+    "original_number": 147
+  },
+  {
+    "number": 148,
+    "original": "నిత్యశుద్ధా।",
+    "display": "నిత్యశుద్ధా।",
+    "source_line": 124,
+    "original_number": 148
+  },
+  {
+    "number": 149,
+    "original": "నిత్యబుద్ధా।",
+    "display": "నిత్యబుద్ధా।",
+    "source_line": 124,
+    "original_number": 149
+  },
+  {
+    "number": 150,
+    "original": "నిరవద్యా।",
+    "display": "నిరవద్యా।",
+    "source_line": 124,
+    "original_number": 150
+  },
+  {
+    "number": 151,
+    "original": "నిరంతరా।",
+    "display": "నిరంతరా।",
+    "source_line": 124,
+    "original_number": 151
+  },
+  {
+    "number": 152,
+    "original": "నిష్కారణా।",
+    "display": "నిష్కారణా।",
+    "source_line": 126,
+    "original_number": 152
+  },
+  {
+    "number": 153,
+    "original": "నిష్కళంకా।",
+    "display": "నిష్కళంకా।",
+    "source_line": 126,
+    "original_number": 153
+  },
+  {
+    "number": 154,
+    "original": "నిరుపాధిః।",
+    "display": "నిరుపాధిః।",
+    "source_line": 126,
+    "original_number": 154
+  },
+  {
+    "number": 155,
+    "original": "నిరీశ్వరా।",
+    "display": "నిరీశ్వరా।",
+    "source_line": 126,
+    "original_number": 155
+  },
+  {
+    "number": 156,
+    "original": "నీరాగా।",
+    "display": "నీరాగా।",
+    "source_line": 127,
+    "original_number": 156
+  },
+  {
+    "number": 157,
+    "original": "రాగమథనా।",
+    "display": "రాగమథనా।",
+    "source_line": 127,
+    "original_number": 157
+  },
+  {
+    "number": 158,
+    "original": "నిర్మదా।",
+    "display": "నిర్మదా।",
+    "source_line": 127,
+    "original_number": 158
+  },
+  {
+    "number": 159,
+    "original": "మదనాశినీ।",
+    "display": "మదనాశినీ।",
+    "source_line": 127,
+    "original_number": 159
+  },
+  {
+    "number": 160,
+    "original": "నిశ్చింతా।",
+    "display": "నిశ్చింతా।",
+    "source_line": 128,
+    "original_number": 160
+  },
+  {
+    "number": 161,
+    "original": "నిరహంకారా।",
+    "display": "నిరహంకారా।",
+    "source_line": 128,
+    "original_number": 161
+  },
+  {
+    "number": 162,
+    "original": "నిర్మోహా।",
+    "display": "నిర్మోహా।",
+    "source_line": 128,
+    "original_number": 162
+  },
+  {
+    "number": 163,
+    "original": "మోహనాశినీ।",
+    "display": "మోహనాశినీ।",
+    "source_line": 128,
+    "original_number": 163
+  },
+  {
+    "number": 164,
+    "original": "నిర్మమా।",
+    "display": "నిర్మమా।",
+    "source_line": 129,
+    "original_number": 164
+  },
+  {
+    "number": 165,
+    "original": "మమతాహంత్రీ।",
+    "display": "మమతాహంత్రీ।",
+    "source_line": 129,
+    "original_number": 165
+  },
+  {
+    "number": 166,
+    "original": "నిష్పాపా।",
+    "display": "నిష్పాపా।",
+    "source_line": 129,
+    "original_number": 166
+  },
+  {
+    "number": 167,
+    "original": "పాపనాశినీ।",
+    "display": "పాపనాశినీ।",
+    "source_line": 129,
+    "original_number": 167
+  },
+  {
+    "number": 168,
+    "original": "నిష్క్రోధా।",
+    "display": "నిష్క్రోధా।",
+    "source_line": 131,
+    "original_number": 168
+  },
+  {
+    "number": 169,
+    "original": "క్రోధశమనీ।",
+    "display": "క్రోధశమనీ।",
+    "source_line": 131,
+    "original_number": 169
+  },
+  {
+    "number": 170,
+    "original": "నిర్లోభా।",
+    "display": "నిర్లోభా।",
+    "source_line": 131,
+    "original_number": 170
+  },
+  {
+    "number": 171,
+    "original": "లోభనాశినీ।",
+    "display": "లోభనాశినీ।",
+    "source_line": 131,
+    "original_number": 171
+  },
+  {
+    "number": 172,
+    "original": "నిస్సంశయా।",
+    "display": "నిస్సంశయా।",
+    "source_line": 132,
+    "original_number": 172
+  },
+  {
+    "number": 173,
+    "original": "సంశయఘ్నీ।",
+    "display": "సంశయఘ్నీ।",
+    "source_line": 132,
+    "original_number": 173
+  },
+  {
+    "number": 174,
+    "original": "నిర్భవా।",
+    "display": "నిర్భవా।",
+    "source_line": 132,
+    "original_number": 174
+  },
+  {
+    "number": 175,
+    "original": "భవనాశినీ।",
+    "display": "భవనాశినీ।",
+    "source_line": 132,
+    "original_number": 175
+  },
+  {
+    "number": 176,
+    "original": "నిర్వికల్పా।",
+    "display": "నిర్వికల్పా।",
+    "source_line": 133,
+    "original_number": 176
+  },
+  {
+    "number": 177,
+    "original": "నిరాబాధా।",
+    "display": "నిరాబాధా।",
+    "source_line": 133,
+    "original_number": 177
+  },
+  {
+    "number": 178,
+    "original": "నిర్భేదా।",
+    "display": "నిర్భేదా।",
+    "source_line": 133,
+    "original_number": 178
+  },
+  {
+    "number": 179,
+    "original": "భేదనాశినీ।",
+    "display": "భేదనాశినీ।",
+    "source_line": 133,
+    "original_number": 179
+  },
+  {
+    "number": 180,
+    "original": "నిర్నాశా।",
+    "display": "నిర్నాశా।",
+    "source_line": 134,
+    "original_number": 180
+  },
+  {
+    "number": 181,
+    "original": "మృత్యుమథనీ।",
+    "display": "మృత్యుమథనీ।",
+    "source_line": 134,
+    "original_number": 181
+  },
+  {
+    "number": 182,
+    "original": "నిష్క్రియా।",
+    "display": "నిష్క్రియా।",
+    "source_line": 134,
+    "original_number": 182
+  },
+  {
+    "number": 183,
+    "original": "నిష్పరిగ్రహా।",
+    "display": "నిష్పరిగ్రహా।",
+    "source_line": 134,
+    "original_number": 183
+  },
+  {
+    "number": 184,
+    "original": "నిస్తులా।",
+    "display": "నిస్తులా।",
+    "source_line": 136,
+    "original_number": 184
+  },
+  {
+    "number": 185,
+    "original": "నీలచికురా।",
+    "display": "నీలచికురా।",
+    "source_line": 136,
+    "original_number": 185
+  },
+  {
+    "number": 186,
+    "original": "నిరపాయా।",
+    "display": "నిరపాయా।",
+    "source_line": 136,
+    "original_number": 186
+  },
+  {
+    "number": 187,
+    "original": "నిరత్యయా।",
+    "display": "నిరత్యయా।",
+    "source_line": 136,
+    "original_number": 187
+  },
+  {
+    "number": 188,
+    "original": "దుర్లభా।",
+    "display": "దుర్లభా।",
+    "source_line": 137,
+    "original_number": 188
+  },
+  {
+    "number": 189,
+    "original": "దుర్గమా।",
+    "display": "దుర్గమా।",
+    "source_line": 137,
+    "original_number": 189
+  },
+  {
+    "number": 190,
+    "original": "దుర్గా।",
+    "display": "దుర్గా।",
+    "source_line": 137,
+    "original_number": 190
+  },
+  {
+    "number": 191,
+    "original": "దుఃఖహంత్రీ।",
+    "display": "దుఃఖహంత్రీ।",
+    "source_line": 137,
+    "original_number": 191
+  },
+  {
+    "number": 192,
+    "original": "సుఖప్రదా।",
+    "display": "సుఖప్రదా।",
+    "source_line": 137,
+    "original_number": 192
+  },
+  {
+    "number": 193,
+    "original": "దుష్టదూరా।",
+    "display": "దుష్టదూరా।",
+    "source_line": 139,
+    "original_number": 193
+  },
+  {
+    "number": 194,
+    "original": "దురాచారశమనీ।",
+    "display": "దురాచారశమనీ।",
+    "source_line": 139,
+    "original_number": 194
+  },
+  {
+    "number": 195,
+    "original": "దోషవర్జితా।",
+    "display": "దోషవర్జితా।",
+    "source_line": 139,
+    "original_number": 195
+  },
+  {
+    "number": 196,
+    "original": "సర్వజ్ఞా।",
+    "display": "సర్వజ్ఞా।",
+    "source_line": 140,
+    "original_number": 196
+  },
+  {
+    "number": 197,
+    "original": "సాంద్రకరుణా।",
+    "display": "సాంద్రకరుణా।",
+    "source_line": 140,
+    "original_number": 197
+  },
+  {
+    "number": 198,
+    "original": "సమానాధికవర్జితా।",
+    "display": "సమానాధికవర్జితా।",
+    "source_line": 140,
+    "original_number": 198
+  },
+  {
+    "number": 199,
+    "original": "సర్వశక్తిమయీ।",
+    "display": "సర్వశక్తిమయీ।",
+    "source_line": 142,
+    "original_number": 199
+  },
+  {
+    "number": 200,
+    "original": "సర్వమంగళా।",
+    "display": "సర్వమంగళా।",
+    "source_line": 142,
+    "original_number": 200
+  },
+  {
+    "number": 201,
+    "original": "సద్గతిప్రదా।",
+    "display": "సద్గతిప్రదా।",
+    "source_line": 142,
+    "original_number": 201
+  },
+  {
+    "number": 202,
+    "original": "సర్వేశ్వరీ।",
+    "display": "సర్వేశ్వరీ।",
+    "source_line": 143,
+    "original_number": 202
+  },
+  {
+    "number": 203,
+    "original": "సర్వమయీ।",
+    "display": "సర్వమయీ।",
+    "source_line": 143,
+    "original_number": 203
+  },
+  {
+    "number": 204,
+    "original": "సర్వమంత్రస్వరూపిణీ।",
+    "display": "సర్వమంత్రస్వరూపిణీ।",
+    "source_line": 143,
+    "original_number": 204
+  },
+  {
+    "number": 205,
+    "original": "సర్వయంత్రాత్మికా।",
+    "display": "సర్వయంత్రాత్మికా।",
+    "source_line": 145,
+    "original_number": 205
+  },
+  {
+    "number": 206,
+    "original": "సర్వతంత్రరూపా।",
+    "display": "సర్వతంత్రరూపా।",
+    "source_line": 145,
+    "original_number": 206
+  },
+  {
+    "number": 207,
+    "original": "మనోన్మనీ।",
+    "display": "మనోన్మనీ।",
+    "source_line": 145,
+    "original_number": 207
+  },
+  {
+    "number": 208,
+    "original": "మాహేశ్వరీ।",
+    "display": "మాహేశ్వరీ।",
+    "source_line": 146,
+    "original_number": 208
+  },
+  {
+    "number": 209,
+    "original": "మహాదేవీ।",
+    "display": "మహాదేవీ।",
+    "source_line": 146,
+    "original_number": 209
+  },
+  {
+    "number": 210,
+    "original": "మహాలక్ష్మీ।",
+    "display": "మహాలక్ష్మీ।",
+    "source_line": 146,
+    "original_number": 210
+  },
+  {
+    "number": 211,
+    "original": "మృడప్రియా।",
+    "display": "మృడప్రియా।",
+    "source_line": 146,
+    "original_number": 211
+  },
+  {
+    "number": 212,
+    "original": "మహారూపా।",
+    "display": "మహారూపా।",
+    "source_line": 148,
+    "original_number": 212
+  },
+  {
+    "number": 213,
+    "original": "మహాపూజ్యా।",
+    "display": "మహాపూజ్యా।",
+    "source_line": 148,
+    "original_number": 213
+  },
+  {
+    "number": 214,
+    "original": "మహాపాతకనాశినీ।",
+    "display": "మహాపాతకనాశినీ।",
+    "source_line": 148,
+    "original_number": 214
+  },
+  {
+    "number": 215,
+    "original": "మహామాయా।",
+    "display": "మహామాయా।",
+    "source_line": 149,
+    "original_number": 215
+  },
+  {
+    "number": 216,
+    "original": "మహాసత్త్వా।",
+    "display": "మహాసత్త్వా।",
+    "source_line": 149,
+    "original_number": 216
+  },
+  {
+    "number": 217,
+    "original": "మహాశక్తిః।",
+    "display": "మహాశక్తిః।",
+    "source_line": 149,
+    "original_number": 217
+  },
+  {
+    "number": 218,
+    "original": "మహారతిః।",
+    "display": "మహారతిః।",
+    "source_line": 149,
+    "original_number": 218
+  },
+  {
+    "number": 219,
+    "original": "మహాభోగా।",
+    "display": "మహాభోగా।",
+    "source_line": 151,
+    "original_number": 219
+  },
+  {
+    "number": 220,
+    "original": "మహైశ్వర్యా।",
+    "display": "మహైశ్వర్యా।",
+    "source_line": 151,
+    "original_number": 220
+  },
+  {
+    "number": 221,
+    "original": "మహావీర్యా।",
+    "display": "మహావీర్యా।",
+    "source_line": 151,
+    "original_number": 221
+  },
+  {
+    "number": 222,
+    "original": "మహాబలా।",
+    "display": "మహాబలా।",
+    "source_line": 151,
+    "original_number": 222
+  },
+  {
+    "number": 223,
+    "original": "మహాబుద్ధిః।",
+    "display": "మహాబుద్ధిః।",
+    "source_line": 152,
+    "original_number": 223
+  },
+  {
+    "number": 224,
+    "original": "మహాసిద్ధిః।",
+    "display": "మహాసిద్ధిః।",
+    "source_line": 152,
+    "original_number": 224
+  },
+  {
+    "number": 225,
+    "original": "మహాయోగీశ్వరేశ్వరీ।",
+    "display": "మహాయోగీశ్వరేశ్వరీ।",
+    "source_line": 152,
+    "original_number": 225
+  },
+  {
+    "number": 226,
+    "original": "మహాతంత్రా।",
+    "display": "మహాతంత్రా।",
+    "source_line": 153,
+    "original_number": 226
+  },
+  {
+    "number": 227,
+    "original": "మహామంత్రా।",
+    "display": "మహామంత్రా।",
+    "source_line": 153,
+    "original_number": 227
+  },
+  {
+    "number": 228,
+    "original": "మహాయంత్రా।",
+    "display": "మహాయంత్రా।",
+    "source_line": 153,
+    "original_number": 228
+  },
+  {
+    "number": 229,
+    "original": "మహాసనా।",
+    "display": "మహాసనా।",
+    "source_line": 153,
+    "original_number": 229
+  },
+  {
+    "number": 230,
+    "original": "మహాయాగక్రమారాధ్యా।",
+    "display": "మహాయాగక్రమారాధ్యా।",
+    "source_line": 154,
+    "original_number": 230
+  },
+  {
+    "number": 231,
+    "original": "మహాభైరవపూజితా।",
+    "display": "మహాభైరవపూజితా।",
+    "source_line": 154,
+    "original_number": 231
+  },
+  {
+    "number": 232,
+    "original": "మహేశ్వరమహాకల్పమహాతాండవసాక్షిణీ।",
+    "display": "మహేశ్వరమహాకల్పమహాతాండవసాక్షిణీ।",
+    "source_line": 156,
+    "original_number": 232
+  },
+  {
+    "number": 233,
+    "original": "మహాకామేశమహిషీ।",
+    "display": "మహాకామేశమహిషీ।",
+    "source_line": 157,
+    "original_number": 233
+  },
+  {
+    "number": 234,
+    "original": "మహాత్రిపురసుందరీ।",
+    "display": "మహాత్రిపురసుందరీ।",
+    "source_line": 157,
+    "original_number": 234
+  },
+  {
+    "number": 235,
+    "original": "చతుష్షష్ట్యుపచారాఢ్యా।",
+    "display": "చతుష్షష్ట్యుపచారాఢ్యా।",
+    "source_line": 158,
+    "original_number": 235
+  },
+  {
+    "number": 236,
+    "original": "చతుఃషష్టికలామయీ।",
+    "display": "చతుఃషష్టికలామయీ।",
+    "source_line": 158,
+    "original_number": 236
+  },
+  {
+    "number": 237,
+    "original": "మహాచతుఃషష్టికోటియోగినీగణసేవితా।",
+    "display": "మహాచతుఃషష్టికోటియోగినీగణసేవితా।",
+    "source_line": 159,
+    "original_number": 237
+  },
+  {
+    "number": 238,
+    "original": "మనువిద్యా।",
+    "display": "మనువిద్యా।",
+    "source_line": 161,
+    "original_number": 238
+  },
+  {
+    "number": 239,
+    "original": "చంద్రవిద్యా।",
+    "display": "చంద్రవిద్యా।",
+    "source_line": 161,
+    "original_number": 239
+  },
+  {
+    "number": 240,
+    "original": "చంద్రమండలమధ్యగా।",
+    "display": "చంద్రమండలమధ్యగా।",
+    "source_line": 161,
+    "original_number": 240
+  },
+  {
+    "number": 241,
+    "original": "చారురూపా।",
+    "display": "చారురూపా।",
+    "source_line": 162,
+    "original_number": 241
+  },
+  {
+    "number": 242,
+    "original": "చారుహాసా।",
+    "display": "చారుహాసా।",
+    "source_line": 162,
+    "original_number": 242
+  },
+  {
+    "number": 243,
+    "original": "చారుచంద్రకళాధరా।",
+    "display": "చారుచంద్రకళాధరా।",
+    "source_line": 162,
+    "original_number": 243
+  },
+  {
+    "number": 244,
+    "original": "చరాచరజగన్నాథా।",
+    "display": "చరాచరజగన్నాథా।",
+    "source_line": 163,
+    "original_number": 244
+  },
+  {
+    "number": 245,
+    "original": "చక్రరాజనికేతనా।",
+    "display": "చక్రరాజనికేతనా।",
+    "source_line": 163,
+    "original_number": 245
+  },
+  {
+    "number": 246,
+    "original": "పార్వతీ।",
+    "display": "పార్వతీ।",
+    "source_line": 164,
+    "original_number": 246
+  },
+  {
+    "number": 247,
+    "original": "పద్మనయనా।",
+    "display": "పద్మనయనా।",
+    "source_line": 164,
+    "original_number": 247
+  },
+  {
+    "number": 248,
+    "original": "పద్మరాగసమప్రభా।",
+    "display": "పద్మరాగసమప్రభా।",
+    "source_line": 164,
+    "original_number": 248
+  },
+  {
+    "number": 249,
+    "original": "పంచప్రేతాసనాసీనా।",
+    "display": "పంచప్రేతాసనాసీనా।",
+    "source_line": 166,
+    "original_number": 249
+  },
+  {
+    "number": 250,
+    "original": "పంచబ్రహ్మస్వరూపిణీ।",
+    "display": "పంచబ్రహ్మస్వరూపిణీ।",
+    "source_line": 166,
+    "original_number": 250
+  },
+  {
+    "number": 251,
+    "original": "చిన్మయీ।",
+    "display": "చిన్మయీ।",
+    "source_line": 167,
+    "original_number": 251
+  },
+  {
+    "number": 252,
+    "original": "పరమానందా।",
+    "display": "పరమానందా।",
+    "source_line": 167,
+    "original_number": 252
+  },
+  {
+    "number": 253,
+    "original": "విజ్ఞానఘనరూపిణీ।",
+    "display": "విజ్ఞానఘనరూపిణీ।",
+    "source_line": 167,
+    "original_number": 253
+  },
+  {
+    "number": 254,
+    "original": "ధ్యానధ్యాతృధ్యేయరూపా।",
+    "display": "ధ్యానధ్యాతృధ్యేయరూపా।",
+    "source_line": 169,
+    "original_number": 254
+  },
+  {
+    "number": 255,
+    "original": "ధర్మాధర్మవివర్జితా।",
+    "display": "ధర్మాధర్మవివర్జితా।",
+    "source_line": 169,
+    "original_number": 255
+  },
+  {
+    "number": 256,
+    "original": "విశ్వరూపా।",
+    "display": "విశ్వరూపా।",
+    "source_line": 170,
+    "original_number": 256
+  },
+  {
+    "number": 257,
+    "original": "జాగరిణీ।",
+    "display": "జాగరిణీ।",
+    "source_line": 170,
+    "original_number": 257
+  },
+  {
+    "number": 258,
+    "original": "స్వపంతీ।",
+    "display": "స్వపంతీ।",
+    "source_line": 170,
+    "original_number": 258
+  },
+  {
+    "number": 259,
+    "original": "తైజసాత్మికా।",
+    "display": "తైజసాత్మికా।",
+    "source_line": 170,
+    "original_number": 259
+  },
+  {
+    "number": 260,
+    "original": "సుప్తా।",
+    "display": "సుప్తా।",
+    "source_line": 172,
+    "original_number": 260
+  },
+  {
+    "number": 261,
+    "original": "ప్రాజ్ఞాత్మికా।",
+    "display": "ప్రాజ్ఞాత్మికా।",
+    "source_line": 172,
+    "original_number": 261
+  },
+  {
+    "number": 262,
+    "original": "తుర్యా।",
+    "display": "తుర్యా।",
+    "source_line": 172,
+    "original_number": 262
+  },
+  {
+    "number": 263,
+    "original": "సర్వావస్థావివర్జితా।",
+    "display": "సర్వావస్థావివర్జితా।",
+    "source_line": 172,
+    "original_number": 263
+  },
+  {
+    "number": 264,
+    "original": "సృష్టికర్త్రీ।",
+    "display": "సృష్టికర్త్రీ।",
+    "source_line": 173,
+    "original_number": 264
+  },
+  {
+    "number": 265,
+    "original": "బ్రహ్మరూపా।",
+    "display": "బ్రహ్మరూపా।",
+    "source_line": 173,
+    "original_number": 265
+  },
+  {
+    "number": 266,
+    "original": "గోప్త్రీ।",
+    "display": "గోప్త్రీ।",
+    "source_line": 173,
+    "original_number": 266
+  },
+  {
+    "number": 267,
+    "original": "గోవిందరూపిణీ।",
+    "display": "గోవిందరూపిణీ।",
+    "source_line": 173,
+    "original_number": 267
+  },
+  {
+    "number": 268,
+    "original": "సంహారిణీ।",
+    "display": "సంహారిణీ।",
+    "source_line": 175,
+    "original_number": 268
+  },
+  {
+    "number": 269,
+    "original": "రుద్రరూపా।",
+    "display": "రుద్రరూపా।",
+    "source_line": 175,
+    "original_number": 269
+  },
+  {
+    "number": 270,
+    "original": "తిరోధానకరీ।",
+    "display": "తిరోధానకరీ।",
+    "source_line": 175,
+    "original_number": 270
+  },
+  {
+    "number": 271,
+    "original": "ఈశ్వరీ।",
+    "display": "ఈశ్వరీ।",
+    "source_line": 175,
+    "original_number": 271
+  },
+  {
+    "number": 272,
+    "original": "సదాశివా।",
+    "display": "సదాశివా।",
+    "source_line": 176,
+    "original_number": 272
+  },
+  {
+    "number": 273,
+    "original": "అనుగ్రహదా।",
+    "display": "అనుగ్రహదా।",
+    "source_line": 176,
+    "original_number": 273
+  },
+  {
+    "number": 274,
+    "original": "పంచకృత్యపరాయణా।",
+    "display": "పంచకృత్యపరాయణా।",
+    "source_line": 176,
+    "original_number": 274
+  },
+  {
+    "number": 275,
+    "original": "భానుమండలమధ్యస్థా।",
+    "display": "భానుమండలమధ్యస్థా।",
+    "source_line": 178,
+    "original_number": 275
+  },
+  {
+    "number": 276,
+    "original": "భైరవీ।",
+    "display": "భైరవీ।",
+    "source_line": 178,
+    "original_number": 276
+  },
+  {
+    "number": 277,
+    "original": "భగమాలినీ।",
+    "display": "భగమాలినీ।",
+    "source_line": 178,
+    "original_number": 277
+  },
+  {
+    "number": 278,
+    "original": "పద్మాసనా।",
+    "display": "పద్మాసనా।",
+    "source_line": 179,
+    "original_number": 278
+  },
+  {
+    "number": 279,
+    "original": "భగవతీ।",
+    "display": "భగవతీ।",
+    "source_line": 179,
+    "original_number": 279
+  },
+  {
+    "number": 280,
+    "original": "పద్మనాభసహోదరీ।",
+    "display": "పద్మనాభసహోదరీ।",
+    "source_line": 179,
+    "original_number": 280
+  },
+  {
+    "number": 281,
+    "original": "ఉన్మేషనిమిషోత్పన్నవిపన్నభువనావళిః।",
+    "display": "ఉన్మేషనిమిషోత్పన్నవిపన్నభువనావళిః।",
+    "source_line": 181,
+    "original_number": 281
+  },
+  {
+    "number": 282,
+    "original": "సహస్రశీర్షవదనా।",
+    "display": "సహస్రశీర్షవదనా।",
+    "source_line": 182,
+    "original_number": 282
+  },
+  {
+    "number": 283,
+    "original": "సహస్రాక్షీ।",
+    "display": "సహస్రాక్షీ।",
+    "source_line": 182,
+    "original_number": 283
+  },
+  {
+    "number": 284,
+    "original": "సహస్రపాత్।",
+    "display": "సహస్రపాత్।",
+    "source_line": 182,
+    "original_number": 284
+  },
+  {
+    "number": 285,
+    "original": "ఆబ్రహ్మకీటజననీ।",
+    "display": "ఆబ్రహ్మకీటజననీ।",
+    "source_line": 184,
+    "original_number": 285
+  },
+  {
+    "number": 286,
+    "original": "వర్ణాశ్రమవిధాయినీ।",
+    "display": "వర్ణాశ్రమవిధాయినీ।",
+    "source_line": 184,
+    "original_number": 286
+  },
+  {
+    "number": 287,
+    "original": "నిజాజ్ఞారూపనిగమా।",
+    "display": "నిజాజ్ఞారూపనిగమా।",
+    "source_line": 185,
+    "original_number": 287
+  },
+  {
+    "number": 288,
+    "original": "పుణ్యాపుణ్యఫలప్రదా।",
+    "display": "పుణ్యాపుణ్యఫలప్రదా।",
+    "source_line": 185,
+    "original_number": 288
+  },
+  {
+    "number": 289,
+    "original": "శ్రుతిసీమంతసిందూరీకృతపాదాబ్జధూళికా।",
+    "display": "శ్రుతిసీమంతసిందూరీకృతపాదాబ్జధూళికా।",
+    "source_line": 187,
+    "original_number": 289
+  },
+  {
+    "number": 290,
+    "original": "సకలాగమసందోహశుక్తిసంపుటమౌక్తికా।",
+    "display": "సకలాగమసందోహశుక్తిసంపుటమౌక్తికా।",
+    "source_line": 188,
+    "original_number": 290
+  },
+  {
+    "number": 291,
+    "original": "పురుషార్థప్రదా।",
+    "display": "పురుషార్థప్రదా।",
+    "source_line": 190,
+    "original_number": 291
+  },
+  {
+    "number": 292,
+    "original": "పూర్ణా।",
+    "display": "పూర్ణా।",
+    "source_line": 190,
+    "original_number": 292
+  },
+  {
+    "number": 293,
+    "original": "భోగినీ।",
+    "display": "భోగినీ।",
+    "source_line": 190,
+    "original_number": 293
+  },
+  {
+    "number": 294,
+    "original": "భువనేశ్వరీ।",
+    "display": "భువనేశ్వరీ।",
+    "source_line": 190,
+    "original_number": 294
+  },
+  {
+    "number": 295,
+    "original": "అంబికా।",
+    "display": "అంబికా।",
+    "source_line": 191,
+    "original_number": 295
+  },
+  {
+    "number": 296,
+    "original": "అనాదినిధనా।",
+    "display": "అనాదినిధనా।",
+    "source_line": 191,
+    "original_number": 296
+  },
+  {
+    "number": 297,
+    "original": "హరిబ్రహ్మేంద్రసేవితా।",
+    "display": "హరిబ్రహ్మేంద్రసేవితా।",
+    "source_line": 191,
+    "original_number": 297
+  },
+  {
+    "number": 298,
+    "original": "నారాయణీ।",
+    "display": "నారాయణీ।",
+    "source_line": 192,
+    "original_number": 298
+  },
+  {
+    "number": 299,
+    "original": "నాదరూపా।",
+    "display": "నాదరూపా।",
+    "source_line": 192,
+    "original_number": 299
+  },
+  {
+    "number": 300,
+    "original": "నామరూపవివర్జితా।",
+    "display": "నామరూపవివర్జితా।",
+    "source_line": 192,
+    "original_number": 300
+  },
+  {
+    "number": 301,
+    "original": "హ్రీంకారీ।",
+    "display": "హ్రీంకారీ।",
+    "source_line": 193,
+    "original_number": 301
+  },
+  {
+    "number": 302,
+    "original": "హ్రీమతీ।",
+    "display": "హ్రీమతీ।",
+    "source_line": 193,
+    "original_number": 302
+  },
+  {
+    "number": 303,
+    "original": "హృద్యా।",
+    "display": "హృద్యా।",
+    "source_line": 193,
+    "original_number": 303
+  },
+  {
+    "number": 304,
+    "original": "హేయోపాదేయవర్జితా।",
+    "display": "హేయోపాదేయవర్జితా।",
+    "source_line": 193,
+    "original_number": 304
+  },
+  {
+    "number": 305,
+    "original": "రాజరాజార్చితా।",
+    "display": "రాజరాజార్చితా।",
+    "source_line": 195,
+    "original_number": 305
+  },
+  {
+    "number": 306,
+    "original": "రాజ్ఞీ।",
+    "display": "రాజ్ఞీ।",
+    "source_line": 195,
+    "original_number": 306
+  },
+  {
+    "number": 307,
+    "original": "రమ్యా।",
+    "display": "రమ్యా।",
+    "source_line": 195,
+    "original_number": 307
+  },
+  {
+    "number": 308,
+    "original": "రాజీవలోచనా।",
+    "display": "రాజీవలోచనా।",
+    "source_line": 195,
+    "original_number": 308
+  },
+  {
+    "number": 309,
+    "original": "రంజనీ।",
+    "display": "రంజనీ।",
+    "source_line": 196,
+    "original_number": 309
+  },
+  {
+    "number": 310,
+    "original": "రమణీ।",
+    "display": "రమణీ।",
+    "source_line": 196,
+    "original_number": 310
+  },
+  {
+    "number": 311,
+    "original": "రస్యా।",
+    "display": "రస్యా।",
+    "source_line": 196,
+    "original_number": 311
+  },
+  {
+    "number": 312,
+    "original": "రణత్కింకిణిమేఖలా।",
+    "display": "రణత్కింకిణిమేఖలా।",
+    "source_line": 196,
+    "original_number": 312
+  },
+  {
+    "number": 313,
+    "original": "రమా।",
+    "display": "రమా।",
+    "source_line": 197,
+    "original_number": 313
+  },
+  {
+    "number": 314,
+    "original": "రాకేందువదనా।",
+    "display": "రాకేందువదనా।",
+    "source_line": 197,
+    "original_number": 314
+  },
+  {
+    "number": 315,
+    "original": "రతిరూపా।",
+    "display": "రతిరూపా।",
+    "source_line": 197,
+    "original_number": 315
+  },
+  {
+    "number": 316,
+    "original": "రతిప్రియా।",
+    "display": "రతిప్రియా।",
+    "source_line": 197,
+    "original_number": 316
+  },
+  {
+    "number": 317,
+    "original": "రక్షాకరీ।",
+    "display": "రక్షాకరీ।",
+    "source_line": 198,
+    "original_number": 317
+  },
+  {
+    "number": 318,
+    "original": "రాక్షసఘ్నీ।",
+    "display": "రాక్షసఘ్నీ।",
+    "source_line": 198,
+    "original_number": 318
+  },
+  {
+    "number": 319,
+    "original": "రామా।",
+    "display": "రామా।",
+    "source_line": 198,
+    "original_number": 319
+  },
+  {
+    "number": 320,
+    "original": "రమణలంపటా।",
+    "display": "రమణలంపటా।",
+    "source_line": 198,
+    "original_number": 320
+  },
+  {
+    "number": 321,
+    "original": "కామ్యా।",
+    "display": "కామ్యా।",
+    "source_line": 200,
+    "original_number": 321
+  },
+  {
+    "number": 322,
+    "original": "కామకళారూపా।",
+    "display": "కామకళారూపా।",
+    "source_line": 200,
+    "original_number": 322
+  },
+  {
+    "number": 323,
+    "original": "కదంబకుసుమప్రియా।",
+    "display": "కదంబకుసుమప్రియా।",
+    "source_line": 200,
+    "original_number": 323
+  },
+  {
+    "number": 324,
+    "original": "కళ్యాణీ।",
+    "display": "కళ్యాణీ।",
+    "source_line": 201,
+    "original_number": 324
+  },
+  {
+    "number": 325,
+    "original": "జగతీకందా।",
+    "display": "జగతీకందా।",
+    "source_line": 201,
+    "original_number": 325
+  },
+  {
+    "number": 326,
+    "original": "కరుణారససాగరా।",
+    "display": "కరుణారససాగరా।",
+    "source_line": 201,
+    "original_number": 326
+  },
+  {
+    "number": 327,
+    "original": "కళావతీ।",
+    "display": "కళావతీ।",
+    "source_line": 202,
+    "original_number": 327
+  },
+  {
+    "number": 328,
+    "original": "కలాలాపా।",
+    "display": "కలాలాపా।",
+    "source_line": 202,
+    "original_number": 328
+  },
+  {
+    "number": 329,
+    "original": "కాంతా।",
+    "display": "కాంతా।",
+    "source_line": 202,
+    "original_number": 329
+  },
+  {
+    "number": 330,
+    "original": "కాదంబరీప్రియా।",
+    "display": "కాదంబరీప్రియా।",
+    "source_line": 202,
+    "original_number": 330
+  },
+  {
+    "number": 331,
+    "original": "వరదా।",
+    "display": "వరదా।",
+    "source_line": 203,
+    "original_number": 331
+  },
+  {
+    "number": 332,
+    "original": "వామనయనా।",
+    "display": "వామనయనా।",
+    "source_line": 203,
+    "original_number": 332
+  },
+  {
+    "number": 333,
+    "original": "వారుణీమదవిహ్వలా।",
+    "display": "వారుణీమదవిహ్వలా।",
+    "source_line": 203,
+    "original_number": 333
+  },
+  {
+    "number": 334,
+    "original": "విశ్వాధికా।",
+    "display": "విశ్వాధికా।",
+    "source_line": 204,
+    "original_number": 334
+  },
+  {
+    "number": 335,
+    "original": "వేదవేద్యా।",
+    "display": "వేదవేద్యా।",
+    "source_line": 204,
+    "original_number": 335
+  },
+  {
+    "number": 336,
+    "original": "వింధ్యాచలనివాసినీ।",
+    "display": "వింధ్యాచలనివాసినీ।",
+    "source_line": 204,
+    "original_number": 336
+  },
+  {
+    "number": 337,
+    "original": "విధాత్రీ।",
+    "display": "విధాత్రీ।",
+    "source_line": 205,
+    "original_number": 337
+  },
+  {
+    "number": 338,
+    "original": "వేదజననీ।",
+    "display": "వేదజననీ।",
+    "source_line": 205,
+    "original_number": 338
+  },
+  {
+    "number": 339,
+    "original": "విష్ణుమాయా।",
+    "display": "విష్ణుమాయా।",
+    "source_line": 205,
+    "original_number": 339
+  },
+  {
+    "number": 340,
+    "original": "విలాసినీ।",
+    "display": "విలాసినీ।",
+    "source_line": 205,
+    "original_number": 340
+  },
+  {
+    "number": 341,
+    "original": "క్షేత్రస్వరూపా।",
+    "display": "క్షేత్రస్వరూపా।",
+    "source_line": 207,
+    "original_number": 341
+  },
+  {
+    "number": 342,
+    "original": "క్షేత్రేశీ।",
+    "display": "క్షేత్రేశీ।",
+    "source_line": 207,
+    "original_number": 342
+  },
+  {
+    "number": 343,
+    "original": "క్షేత్రక్షేత్రజ్ఞపాలినీ।",
+    "display": "క్షేత్రక్షేత్రజ్ఞపాలినీ।",
+    "source_line": 207,
+    "original_number": 343
+  },
+  {
+    "number": 344,
+    "original": "క్షయవృద్ధివినిర్ముక్తా।",
+    "display": "క్షయవృద్ధివినిర్ముక్తా।",
+    "source_line": 208,
+    "original_number": 344
+  },
+  {
+    "number": 345,
+    "original": "క్షేత్రపాలసమర్చితా।",
+    "display": "క్షేత్రపాలసమర్చితా।",
+    "source_line": 208,
+    "original_number": 345
+  },
+  {
+    "number": 346,
+    "original": "విజయా।",
+    "display": "విజయా।",
+    "source_line": 210,
+    "original_number": 346
+  },
+  {
+    "number": 347,
+    "original": "విమలా।",
+    "display": "విమలా।",
+    "source_line": 210,
+    "original_number": 347
+  },
+  {
+    "number": 348,
+    "original": "వంద్యా।",
+    "display": "వంద్యా।",
+    "source_line": 210,
+    "original_number": 348
+  },
+  {
+    "number": 349,
+    "original": "వందారుజనవత్సలా।",
+    "display": "వందారుజనవత్సలా।",
+    "source_line": 210,
+    "original_number": 349
+  },
+  {
+    "number": 350,
+    "original": "వాగ్వాదినీ।",
+    "display": "వాగ్వాదినీ।",
+    "source_line": 211,
+    "original_number": 350
+  },
+  {
+    "number": 351,
+    "original": "వామకేశీ।",
+    "display": "వామకేశీ।",
+    "source_line": 211,
+    "original_number": 351
+  },
+  {
+    "number": 352,
+    "original": "వహ్నిమండలవాసినీ।",
+    "display": "వహ్నిమండలవాసినీ।",
+    "source_line": 211,
+    "original_number": 352
+  },
+  {
+    "number": 353,
+    "original": "భక్తిమత్కల్పలతికా।",
+    "display": "భక్తిమత్కల్పలతికా।",
+    "source_line": 212,
+    "original_number": 353
+  },
+  {
+    "number": 354,
+    "original": "పశుపాశవిమోచినీ।",
+    "display": "పశుపాశవిమోచినీ।",
+    "source_line": 212,
+    "original_number": 354
+  },
+  {
+    "number": 355,
+    "original": "సంహృతాశేషపాషండా।",
+    "display": "సంహృతాశేషపాషండా।",
+    "source_line": 213,
+    "original_number": 355
+  },
+  {
+    "number": 356,
+    "original": "సదాచారప్రవర్తికా।",
+    "display": "సదాచారప్రవర్తికా।",
+    "source_line": 213,
+    "original_number": 356
+  },
+  {
+    "number": 357,
+    "original": "తాపత్రయాగ్నిసంతప్తసమాహ్లాదనచంద్రికా।",
+    "display": "తాపత్రయాగ్నిసంతప్తసమాహ్లాదనచంద్రికా।",
+    "source_line": 215,
+    "original_number": 357
+  },
+  {
+    "number": 358,
+    "original": "తరుణీ।",
+    "display": "తరుణీ।",
+    "source_line": 216,
+    "original_number": 358
+  },
+  {
+    "number": 359,
+    "original": "తాపసారాధ్యా।",
+    "display": "తాపసారాధ్యా।",
+    "source_line": 216,
+    "original_number": 359
+  },
+  {
+    "number": 360,
+    "original": "తనుమధ్యా।",
+    "display": "తనుమధ్యా।",
+    "source_line": 216,
+    "original_number": 360
+  },
+  {
+    "number": 361,
+    "original": "తమోఽపహా।",
+    "display": "తమోఽపహా।",
+    "source_line": 216,
+    "original_number": 361
+  },
+  {
+    "number": 362,
+    "original": "చితిః।",
+    "display": "చితిః।",
+    "source_line": 218,
+    "original_number": 362
+  },
+  {
+    "number": 363,
+    "original": "తత్పదలక్ష్యార్థా।",
+    "display": "తత్పదలక్ష్యార్థా।",
+    "source_line": 218,
+    "original_number": 363
+  },
+  {
+    "number": 364,
+    "original": "చిదేకరసరూపిణీ।",
+    "display": "చిదేకరసరూపిణీ।",
+    "source_line": 218,
+    "original_number": 364
+  },
+  {
+    "number": 365,
+    "original": "స్వాత్మానందలవీభూతబ్రహ్మాద్యానందసంతతిః।",
+    "display": "స్వాత్మానందలవీభూతబ్రహ్మాద్యానందసంతతిః।",
+    "source_line": 219,
+    "original_number": 365
+  },
+  {
+    "number": 366,
+    "original": "పరా।",
+    "display": "పరా।",
+    "source_line": 221,
+    "original_number": 366
+  },
+  {
+    "number": 367,
+    "original": "ప్రత్యక్చితీరూపా।",
+    "display": "ప్రత్యక్చితీరూపా।",
+    "source_line": 221,
+    "original_number": 367
+  },
+  {
+    "number": 368,
+    "original": "పశ్యంతీ।",
+    "display": "పశ్యంతీ।",
+    "source_line": 221,
+    "original_number": 368
+  },
+  {
+    "number": 369,
+    "original": "పరదేవతా।",
+    "display": "పరదేవతా।",
+    "source_line": 221,
+    "original_number": 369
+  },
+  {
+    "number": 370,
+    "original": "మధ్యమా।",
+    "display": "మధ్యమా।",
+    "source_line": 222,
+    "original_number": 370
+  },
+  {
+    "number": 371,
+    "original": "వైఖరీరూపా।",
+    "display": "వైఖరీరూపా।",
+    "source_line": 222,
+    "original_number": 371
+  },
+  {
+    "number": 372,
+    "original": "భక్తమానసహంసికా।",
+    "display": "భక్తమానసహంసికా।",
+    "source_line": 222,
+    "original_number": 372
+  },
+  {
+    "number": 373,
+    "original": "కామేశ్వరప్రాణనాడీ।",
+    "display": "కామేశ్వరప్రాణనాడీ।",
+    "source_line": 223,
+    "original_number": 373
+  },
+  {
+    "number": 374,
+    "original": "కృతజ్ఞా।",
+    "display": "కృతజ్ఞా।",
+    "source_line": 223,
+    "original_number": 374
+  },
+  {
+    "number": 375,
+    "original": "కామపూజితా।",
+    "display": "కామపూజితా।",
+    "source_line": 223,
+    "original_number": 375
+  },
+  {
+    "number": 376,
+    "original": "శృంగారరససంపూర్ణా।",
+    "display": "శృంగారరససంపూర్ణా।",
+    "source_line": 224,
+    "original_number": 376
+  },
+  {
+    "number": 377,
+    "original": "జయా।",
+    "display": "జయా।",
+    "source_line": 224,
+    "original_number": 377
+  },
+  {
+    "number": 378,
+    "original": "జాలంధరస్థితా।",
+    "display": "జాలంధరస్థితా।",
+    "source_line": 224,
+    "original_number": 378
+  },
+  {
+    "number": 379,
+    "original": "ఓడ్యాణపీఠనిలయా।",
+    "display": "ఓడ్యాణపీఠనిలయా।",
+    "source_line": 226,
+    "original_number": 379
+  },
+  {
+    "number": 380,
+    "original": "బిందుమండలవాసినీ।",
+    "display": "బిందుమండలవాసినీ।",
+    "source_line": 226,
+    "original_number": 380
+  },
+  {
+    "number": 381,
+    "original": "రహోయాగక్రమారాధ్యా।",
+    "display": "రహోయాగక్రమారాధ్యా।",
+    "source_line": 227,
+    "original_number": 381
+  },
+  {
+    "number": 382,
+    "original": "రహస్తర్పణతర్పితా।",
+    "display": "రహస్తర్పణతర్పితా।",
+    "source_line": 227,
+    "original_number": 382
+  },
+  {
+    "number": 383,
+    "original": "సద్యఃప్రసాదినీ।",
+    "display": "సద్యఃప్రసాదినీ।",
+    "source_line": 229,
+    "original_number": 383
+  },
+  {
+    "number": 384,
+    "original": "విశ్వసాక్షిణీ।",
+    "display": "విశ్వసాక్షిణీ।",
+    "source_line": 229,
+    "original_number": 384
+  },
+  {
+    "number": 385,
+    "original": "సాక్షివర్జితా।",
+    "display": "సాక్షివర్జితా।",
+    "source_line": 229,
+    "original_number": 385
+  },
+  {
+    "number": 386,
+    "original": "షడంగదేవతాయుక్తా।",
+    "display": "షడంగదేవతాయుక్తా।",
+    "source_line": 230,
+    "original_number": 386
+  },
+  {
+    "number": 387,
+    "original": "షాడ్గుణ్యపరిపూరితా।",
+    "display": "షాడ్గుణ్యపరిపూరితా।",
+    "source_line": 230,
+    "original_number": 387
+  },
+  {
+    "number": 388,
+    "original": "నిత్యక్లిన్నా।",
+    "display": "నిత్యక్లిన్నా।",
+    "source_line": 231,
+    "original_number": 388
+  },
+  {
+    "number": 389,
+    "original": "నిరుపమా।",
+    "display": "నిరుపమా।",
+    "source_line": 231,
+    "original_number": 389
+  },
+  {
+    "number": 390,
+    "original": "నిర్వాణసుఖదాయినీ।",
+    "display": "నిర్వాణసుఖదాయినీ।",
+    "source_line": 231,
+    "original_number": 390
+  },
+  {
+    "number": 391,
+    "original": "నిత్యాషోడశికారూపా।",
+    "display": "నిత్యాషోడశికారూపా।",
+    "source_line": 232,
+    "original_number": 391
+  },
+  {
+    "number": 392,
+    "original": "శ్రీకంఠార్ధశరీరిణీ।",
+    "display": "శ్రీకంఠార్ధశరీరిణీ।",
+    "source_line": 232,
+    "original_number": 392
+  },
+  {
+    "number": 393,
+    "original": "ప్రభావతీ।",
+    "display": "ప్రభావతీ।",
+    "source_line": 234,
+    "original_number": 393
+  },
+  {
+    "number": 394,
+    "original": "ప్రభారూపా।",
+    "display": "ప్రభారూపా।",
+    "source_line": 234,
+    "original_number": 394
+  },
+  {
+    "number": 395,
+    "original": "ప్రసిద్ధా।",
+    "display": "ప్రసిద్ధా।",
+    "source_line": 234,
+    "original_number": 395
+  },
+  {
+    "number": 396,
+    "original": "పరమేశ్వరీ।",
+    "display": "పరమేశ్వరీ।",
+    "source_line": 234,
+    "original_number": 396
+  },
+  {
+    "number": 397,
+    "original": "మూలప్రకృతిః।",
+    "display": "మూలప్రకృతిః।",
+    "source_line": 235,
+    "original_number": 397
+  },
+  {
+    "number": 398,
+    "original": "అవ్యక్తా।",
+    "display": "అవ్యక్తా।",
+    "source_line": 235,
+    "original_number": 398
+  },
+  {
+    "number": 399,
+    "original": "వ్యక్తావ్యక్తస్వరూపిణీ।",
+    "display": "వ్యక్తావ్యక్తస్వరూపిణీ।",
+    "source_line": 235,
+    "original_number": 399
+  },
+  {
+    "number": 400,
+    "original": "వ్యాపినీ।",
+    "display": "వ్యాపినీ।",
+    "source_line": 236,
+    "original_number": 400
+  },
+  {
+    "number": 401,
+    "original": "వివిధాకారా।",
+    "display": "వివిధాకారా।",
+    "source_line": 236,
+    "original_number": 401
+  },
+  {
+    "number": 402,
+    "original": "విద్యావిద్యాస్వరూపిణీ।",
+    "display": "విద్యావిద్యాస్వరూపిణీ।",
+    "source_line": 236,
+    "original_number": 402
+  },
+  {
+    "number": 403,
+    "original": "మహాకామేశనయనకుముదాహ్లాదకౌముదీ।",
+    "display": "మహాకామేశనయనకుముదాహ్లాదకౌముదీ।",
+    "source_line": 237,
+    "original_number": 403
+  },
+  {
+    "number": 404,
+    "original": "భక్తహార్దతమోభేదభానుమద్భానుసంతతిః।",
+    "display": "భక్తహార్దతమోభేదభానుమద్భానుసంతతిః।",
+    "source_line": 238,
+    "original_number": 404
+  },
+  {
+    "number": 405,
+    "original": "శివదూతీ।",
+    "display": "శివదూతీ।",
+    "source_line": 239,
+    "original_number": 405
+  },
+  {
+    "number": 406,
+    "original": "శివారాధ్యా।",
+    "display": "శివారాధ్యా।",
+    "source_line": 239,
+    "original_number": 406
+  },
+  {
+    "number": 407,
+    "original": "శివమూర్తిః।",
+    "display": "శివమూర్తిః।",
+    "source_line": 239,
+    "original_number": 407
+  },
+  {
+    "number": 408,
+    "original": "శివంకరీ।",
+    "display": "శివంకరీ।",
+    "source_line": 239,
+    "original_number": 408
+  },
+  {
+    "number": 409,
+    "original": "శివప్రియా।",
+    "display": "శివప్రియా।",
+    "source_line": 241,
+    "original_number": 409
+  },
+  {
+    "number": 410,
+    "original": "శివపరా।",
+    "display": "శివపరా।",
+    "source_line": 241,
+    "original_number": 410
+  },
+  {
+    "number": 411,
+    "original": "శిష్టేష్టా।",
+    "display": "శిష్టేష్టా।",
+    "source_line": 241,
+    "original_number": 411
+  },
+  {
+    "number": 412,
+    "original": "శిష్టపూజితా।",
+    "display": "శిష్టపూజితా।",
+    "source_line": 241,
+    "original_number": 412
+  },
+  {
+    "number": 413,
+    "original": "అప్రమేయా।",
+    "display": "అప్రమేయా।",
+    "source_line": 242,
+    "original_number": 413
+  },
+  {
+    "number": 414,
+    "original": "స్వప్రకాశా।",
+    "display": "స్వప్రకాశా।",
+    "source_line": 242,
+    "original_number": 414
+  },
+  {
+    "number": 415,
+    "original": "మనోవాచామగోచరా।",
+    "display": "మనోవాచామగోచరా।",
+    "source_line": 242,
+    "original_number": 415
+  },
+  {
+    "number": 416,
+    "original": "చిచ్ఛక్తిః।",
+    "display": "చిచ్ఛక్తిః।",
+    "source_line": 243,
+    "original_number": 416
+  },
+  {
+    "number": 417,
+    "original": "చేతనారూపా।",
+    "display": "చేతనారూపా।",
+    "source_line": 243,
+    "original_number": 417
+  },
+  {
+    "number": 418,
+    "original": "జడశక్తిః।",
+    "display": "జడశక్తిః।",
+    "source_line": 243,
+    "original_number": 418
+  },
+  {
+    "number": 419,
+    "original": "జడాత్మికా।",
+    "display": "జడాత్మికా।",
+    "source_line": 243,
+    "original_number": 419
+  },
+  {
+    "number": 420,
+    "original": "గాయత్రీ।",
+    "display": "గాయత్రీ।",
+    "source_line": 244,
+    "original_number": 420
+  },
+  {
+    "number": 421,
+    "original": "వ్యాహృతిః।",
+    "display": "వ్యాహృతిః।",
+    "source_line": 244,
+    "original_number": 421
+  },
+  {
+    "number": 422,
+    "original": "సంధ్యా।",
+    "display": "సంధ్యా।",
+    "source_line": 244,
+    "original_number": 422
+  },
+  {
+    "number": 423,
+    "original": "ద్విజబృందనిషేవితా।",
+    "display": "ద్విజబృందనిషేవితా।",
+    "source_line": 244,
+    "original_number": 423
+  },
+  {
+    "number": 424,
+    "original": "తత్త్వాసనా।",
+    "display": "తత్త్వాసనా।",
+    "source_line": 245,
+    "original_number": 424
+  },
+  {
+    "number": 425,
+    "original": "తత్।",
+    "display": "తత్।",
+    "source_line": 245,
+    "original_number": 425
+  },
+  {
+    "number": 426,
+    "original": "త్వం।",
+    "display": "త్వం।",
+    "source_line": 245,
+    "original_number": 426
+  },
+  {
+    "number": 427,
+    "original": "అయీ।",
+    "display": "అయీ।",
+    "source_line": 245,
+    "original_number": 427
+  },
+  {
+    "number": 428,
+    "original": "పంచకోశాంతరస్థితా।",
+    "display": "పంచకోశాంతరస్థితా।",
+    "source_line": 245,
+    "original_number": 428
+  },
+  {
+    "number": 429,
+    "original": "నిస్సీమమహిమా।",
+    "display": "నిస్సీమమహిమా।",
+    "source_line": 246,
+    "original_number": 429
+  },
+  {
+    "number": 430,
+    "original": "నిత్యయౌవనా।",
+    "display": "నిత్యయౌవనా।",
+    "source_line": 246,
+    "original_number": 430
+  },
+  {
+    "number": 431,
+    "original": "మదశాలినీ।",
+    "display": "మదశాలినీ।",
+    "source_line": 246,
+    "original_number": 431
+  },
+  {
+    "number": 432,
+    "original": "మదఘూర్ణితరక్తాక్షీ।",
+    "display": "మదఘూర్ణితరక్తాక్షీ।",
+    "source_line": 248,
+    "original_number": 432
+  },
+  {
+    "number": 433,
+    "original": "మదపాటలగండభూః।",
+    "display": "మదపాటలగండభూః।",
+    "source_line": 248,
+    "original_number": 433
+  },
+  {
+    "number": 434,
+    "original": "చందనద్రవదిగ్ధాంగీ।",
+    "display": "చందనద్రవదిగ్ధాంగీ।",
+    "source_line": 249,
+    "original_number": 434
+  },
+  {
+    "number": 435,
+    "original": "చాంపేయకుసుమప్రియా।",
+    "display": "చాంపేయకుసుమప్రియా।",
+    "source_line": 249,
+    "original_number": 435
+  },
+  {
+    "number": 436,
+    "original": "కుశలా।",
+    "display": "కుశలా।",
+    "source_line": 251,
+    "original_number": 436
+  },
+  {
+    "number": 437,
+    "original": "కోమలాకారా।",
+    "display": "కోమలాకారా।",
+    "source_line": 251,
+    "original_number": 437
+  },
+  {
+    "number": 438,
+    "original": "కురుకుళ్ళా।",
+    "display": "కురుకుళ్ళా।",
+    "source_line": 251,
+    "original_number": 438
+  },
+  {
+    "number": 439,
+    "original": "కుళేశ్వరీ।",
+    "display": "కుళేశ్వరీ।",
+    "source_line": 251,
+    "original_number": 439
+  },
+  {
+    "number": 440,
+    "original": "కులకుండాలయా।",
+    "display": "కులకుండాలయా।",
+    "source_line": 252,
+    "original_number": 440
+  },
+  {
+    "number": 441,
+    "original": "కౌళమార్గతత్పరసేవితా।",
+    "display": "కౌళమార్గతత్పరసేవితా।",
+    "source_line": 252,
+    "original_number": 441
+  },
+  {
+    "number": 442,
+    "original": "కుమారగణనాథాంబా।",
+    "display": "కుమారగణనాథాంబా।",
+    "source_line": 254,
+    "original_number": 442
+  },
+  {
+    "number": 443,
+    "original": "తుష్టిః।",
+    "display": "తుష్టిః।",
+    "source_line": 254,
+    "original_number": 443
+  },
+  {
+    "number": 444,
+    "original": "పుష్టిః।",
+    "display": "పుష్టిః।",
+    "source_line": 254,
+    "original_number": 444
+  },
+  {
+    "number": 445,
+    "original": "మతిః।",
+    "display": "మతిః।",
+    "source_line": 254,
+    "original_number": 445
+  },
+  {
+    "number": 446,
+    "original": "ధృతిః।",
+    "display": "ధృతిః।",
+    "source_line": 254,
+    "original_number": 446
+  },
+  {
+    "number": 447,
+    "original": "శాంతిః।",
+    "display": "శాంతిః।",
+    "source_line": 255,
+    "original_number": 447
+  },
+  {
+    "number": 448,
+    "original": "స్వస్తిమతీ।",
+    "display": "స్వస్తిమతీ।",
+    "source_line": 255,
+    "original_number": 448
+  },
+  {
+    "number": 449,
+    "original": "కాంతిః।",
+    "display": "కాంతిః।",
+    "source_line": 255,
+    "original_number": 449
+  },
+  {
+    "number": 450,
+    "original": "నందినీ।",
+    "display": "నందినీ।",
+    "source_line": 255,
+    "original_number": 450
+  },
+  {
+    "number": 451,
+    "original": "విఘ్ననాశినీ।",
+    "display": "విఘ్ననాశినీ।",
+    "source_line": 255,
+    "original_number": 451
+  },
+  {
+    "number": 452,
+    "original": "తేజోవతీ।",
+    "display": "తేజోవతీ।",
+    "source_line": 257,
+    "original_number": 452
+  },
+  {
+    "number": 453,
+    "original": "త్రినయనా।",
+    "display": "త్రినయనా।",
+    "source_line": 257,
+    "original_number": 453
+  },
+  {
+    "number": 454,
+    "original": "లోలాక్షీ కామరూపిణీ।",
+    "display": "లోలాక్షీ కామరూపిణీ।",
+    "source_line": 257,
+    "original_number": 454
+  },
+  {
+    "number": 455,
+    "original": "మాలినీ।",
+    "display": "మాలినీ।",
+    "source_line": 258,
+    "original_number": 455
+  },
+  {
+    "number": 456,
+    "original": "హంసినీ।",
+    "display": "హంసినీ।",
+    "source_line": 258,
+    "original_number": 456
+  },
+  {
+    "number": 457,
+    "original": "మాతా।",
+    "display": "మాతా।",
+    "source_line": 258,
+    "original_number": 457
+  },
+  {
+    "number": 458,
+    "original": "మలయాచలవాసినీ।",
+    "display": "మలయాచలవాసినీ।",
+    "source_line": 258,
+    "original_number": 458
+  },
+  {
+    "number": 459,
+    "original": "సుముఖీ।",
+    "display": "సుముఖీ।",
+    "source_line": 259,
+    "original_number": 459
+  },
+  {
+    "number": 460,
+    "original": "నళినీ।",
+    "display": "నళినీ।",
+    "source_line": 259,
+    "original_number": 460
+  },
+  {
+    "number": 461,
+    "original": "సుభ్రూః।",
+    "display": "సుభ్రూః।",
+    "source_line": 259,
+    "original_number": 461
+  },
+  {
+    "number": 462,
+    "original": "శోభనా।",
+    "display": "శోభనా।",
+    "source_line": 259,
+    "original_number": 462
+  },
+  {
+    "number": 463,
+    "original": "సురనాయికా।",
+    "display": "సురనాయికా।",
+    "source_line": 259,
+    "original_number": 463
+  },
+  {
+    "number": 464,
+    "original": "కాలకంఠీ।",
+    "display": "కాలకంఠీ।",
+    "source_line": 260,
+    "original_number": 464
+  },
+  {
+    "number": 465,
+    "original": "కాంతిమతీ।",
+    "display": "కాంతిమతీ।",
+    "source_line": 260,
+    "original_number": 465
+  },
+  {
+    "number": 466,
+    "original": "క్షోభిణీ।",
+    "display": "క్షోభిణీ।",
+    "source_line": 260,
+    "original_number": 466
+  },
+  {
+    "number": 467,
+    "original": "సూక్ష్మరూపిణీ।",
+    "display": "సూక్ష్మరూపిణీ।",
+    "source_line": 260,
+    "original_number": 467
+  },
+  {
+    "number": 468,
+    "original": "వజ్రేశ్వరీ।",
+    "display": "వజ్రేశ్వరీ।",
+    "source_line": 262,
+    "original_number": 468
+  },
+  {
+    "number": 469,
+    "original": "వామదేవీ।",
+    "display": "వామదేవీ।",
+    "source_line": 262,
+    "original_number": 469
+  },
+  {
+    "number": 470,
+    "original": "వయోఽవస్థావివర్జితా।",
+    "display": "వయోఽవస్థావివర్జితా।",
+    "source_line": 262,
+    "original_number": 470
+  },
+  {
+    "number": 471,
+    "original": "సిద్ధేశ్వరీ।",
+    "display": "సిద్ధేశ్వరీ।",
+    "source_line": 263,
+    "original_number": 471
+  },
+  {
+    "number": 472,
+    "original": "సిద్ధవిద్యా।",
+    "display": "సిద్ధవిద్యా।",
+    "source_line": 263,
+    "original_number": 472
+  },
+  {
+    "number": 473,
+    "original": "సిద్ధమాతా।",
+    "display": "సిద్ధమాతా।",
+    "source_line": 263,
+    "original_number": 473
+  },
+  {
+    "number": 474,
+    "original": "యశస్వినీ।",
+    "display": "యశస్వినీ।",
+    "source_line": 263,
+    "original_number": 474
+  },
+  {
+    "number": 475,
+    "original": "విశుద్ధిచక్రనిలయా।",
+    "display": "విశుద్ధిచక్రనిలయా।",
+    "source_line": 265,
+    "original_number": 475
+  },
+  {
+    "number": 476,
+    "original": "ఆరక్తవర్ణా।",
+    "display": "ఆరక్తవర్ణా।",
+    "source_line": 265,
+    "original_number": 476
+  },
+  {
+    "number": 477,
+    "original": "త్రిలోచనా।",
+    "display": "త్రిలోచనా।",
+    "source_line": 265,
+    "original_number": 477
+  },
+  {
+    "number": 478,
+    "original": "ఖట్వాంగాదిప్రహరణా।",
+    "display": "ఖట్వాంగాదిప్రహరణా।",
+    "source_line": 266,
+    "original_number": 478
+  },
+  {
+    "number": 479,
+    "original": "వదనైకసమన్వితా।",
+    "display": "వదనైకసమన్వితా।",
+    "source_line": 266,
+    "original_number": 479
+  },
+  {
+    "number": 480,
+    "original": "పాయసాన్నప్రియా।",
+    "display": "పాయసాన్నప్రియా।",
+    "source_line": 267,
+    "original_number": 480
+  },
+  {
+    "number": 481,
+    "original": "త్వక్స్థా।",
+    "display": "త్వక్స్థా।",
+    "source_line": 267,
+    "original_number": 481
+  },
+  {
+    "number": 482,
+    "original": "పశులోకభయంకరీ।",
+    "display": "పశులోకభయంకరీ।",
+    "source_line": 267,
+    "original_number": 482
+  },
+  {
+    "number": 483,
+    "original": "అమృతాదిమహాశక్తిసంవృతా।",
+    "display": "అమృతాదిమహాశక్తిసంవృతా।",
+    "source_line": 268,
+    "original_number": 483
+  },
+  {
+    "number": 484,
+    "original": "డాకినీశ్వరీ।",
+    "display": "డాకినీశ్వరీ।",
+    "source_line": 268,
+    "original_number": 484
+  },
+  {
+    "number": 485,
+    "original": "అనాహతాబ్జనిలయా।",
+    "display": "అనాహతాబ్జనిలయా।",
+    "source_line": 270,
+    "original_number": 485
+  },
+  {
+    "number": 486,
+    "original": "శ్యామాభా।",
+    "display": "శ్యామాభా।",
+    "source_line": 270,
+    "original_number": 486
+  },
+  {
+    "number": 487,
+    "original": "వదనద్వయా।",
+    "display": "వదనద్వయా।",
+    "source_line": 270,
+    "original_number": 487
+  },
+  {
+    "number": 488,
+    "original": "దంష్ట్రోజ్జ్వలా।",
+    "display": "దంష్ట్రోజ్జ్వలా।",
+    "source_line": 271,
+    "original_number": 488
+  },
+  {
+    "number": 489,
+    "original": "అక్షమాలాదిధరా।",
+    "display": "అక్షమాలాదిధరా।",
+    "source_line": 271,
+    "original_number": 489
+  },
+  {
+    "number": 490,
+    "original": "రుధిరసంస్థితా।",
+    "display": "రుధిరసంస్థితా।",
+    "source_line": 271,
+    "original_number": 490
+  },
+  {
+    "number": 491,
+    "original": "కాలరాత్ర్యాదిశక్త్యౌఘవృతా।",
+    "display": "కాలరాత్ర్యాదిశక్త్యౌఘవృతా।",
+    "source_line": 273,
+    "original_number": 491
+  },
+  {
+    "number": 492,
+    "original": "స్నిగ్ధౌదనప్రియా।",
+    "display": "స్నిగ్ధౌదనప్రియా।",
+    "source_line": 273,
+    "original_number": 492
+  },
+  {
+    "number": 493,
+    "original": "మహావీరేంద్రవరదా।",
+    "display": "మహావీరేంద్రవరదా।",
+    "source_line": 274,
+    "original_number": 493
+  },
+  {
+    "number": 494,
+    "original": "రాకిణ్యంబాస్వరూపిణీ।",
+    "display": "రాకిణ్యంబాస్వరూపిణీ।",
+    "source_line": 274,
+    "original_number": 494
+  },
+  {
+    "number": 495,
+    "original": "మణిపూరాబ్జనిలయా।",
+    "display": "మణిపూరాబ్జనిలయా।",
+    "source_line": 276,
+    "original_number": 495
+  },
+  {
+    "number": 496,
+    "original": "వదనత్రయసంయుతా।",
+    "display": "వదనత్రయసంయుతా।",
+    "source_line": 276,
+    "original_number": 496
+  },
+  {
+    "number": 497,
+    "original": "వజ్రాదికాయుధోపేతా।",
+    "display": "వజ్రాదికాయుధోపేతా।",
+    "source_line": 277,
+    "original_number": 497
+  },
+  {
+    "number": 498,
+    "original": "డామర్యాదిభిరావృతా।",
+    "display": "డామర్యాదిభిరావృతా।",
+    "source_line": 277,
+    "original_number": 498
+  },
+  {
+    "number": 499,
+    "original": "రక్తవర్ణా।",
+    "display": "రక్తవర్ణా।",
+    "source_line": 279,
+    "original_number": 499
+  },
+  {
+    "number": 500,
+    "original": "మాంసనిష్ఠా।",
+    "display": "మాంసనిష్ఠా।",
+    "source_line": 279,
+    "original_number": 500
+  },
+  {
+    "number": 501,
+    "original": "గుడాన్నప్రీతమానసా।",
+    "display": "గుడాన్నప్రీతమానసా।",
+    "source_line": 279,
+    "original_number": 501
+  },
+  {
+    "number": 502,
+    "original": "సమస్తభక్తసుఖదా।",
+    "display": "సమస్తభక్తసుఖదా।",
+    "source_line": 280,
+    "original_number": 502
+  },
+  {
+    "number": 503,
+    "original": "లాకిన్యంబాస్వరూపిణీ।",
+    "display": "లాకిన్యంబాస్వరూపిణీ।",
+    "source_line": 280,
+    "original_number": 503
+  },
+  {
+    "number": 504,
+    "original": "స్వాధిష్ఠానాంబుజగతా।",
+    "display": "స్వాధిష్ఠానాంబుజగతా।",
+    "source_line": 282,
+    "original_number": 504
+  },
+  {
+    "number": 505,
+    "original": "చతుర్వక్త్రమనోహరా।",
+    "display": "చతుర్వక్త్రమనోహరా।",
+    "source_line": 282,
+    "original_number": 505
+  },
+  {
+    "number": 506,
+    "original": "శూలాద్యాయుధసంపన్నా।",
+    "display": "శూలాద్యాయుధసంపన్నా।",
+    "source_line": 283,
+    "original_number": 506
+  },
+  {
+    "number": 507,
+    "original": "పీతవర్ణా।",
+    "display": "పీతవర్ణా।",
+    "source_line": 283,
+    "original_number": 507
+  },
+  {
+    "number": 508,
+    "original": "అతిగర్వితా।",
+    "display": "అతిగర్వితా।",
+    "source_line": 283,
+    "original_number": 508
+  },
+  {
+    "number": 509,
+    "original": "మేదోనిష్ఠా।",
+    "display": "మేదోనిష్ఠా।",
+    "source_line": 285,
+    "original_number": 509
+  },
+  {
+    "number": 510,
+    "original": "మధుప్రీతా।",
+    "display": "మధుప్రీతా।",
+    "source_line": 285,
+    "original_number": 510
+  },
+  {
+    "number": 511,
+    "original": "బందిన్యాదిసమన్వితా।",
+    "display": "బందిన్యాదిసమన్వితా।",
+    "source_line": 285,
+    "original_number": 511
+  },
+  {
+    "number": 512,
+    "original": "దధ్యన్నాసక్తహృదయా।",
+    "display": "దధ్యన్నాసక్తహృదయా।",
+    "source_line": 286,
+    "original_number": 512
+  },
+  {
+    "number": 513,
+    "original": "కాకినీరూపధారిణీ।",
+    "display": "కాకినీరూపధారిణీ।",
+    "source_line": 286,
+    "original_number": 513
+  },
+  {
+    "number": 514,
+    "original": "మూలాధారాంబుజారూఢా।",
+    "display": "మూలాధారాంబుజారూఢా।",
+    "source_line": 288,
+    "original_number": 514
+  },
+  {
+    "number": 515,
+    "original": "పంచవక్త్రా।",
+    "display": "పంచవక్త్రా।",
+    "source_line": 288,
+    "original_number": 515
+  },
+  {
+    "number": 516,
+    "original": "అస్థిసంస్థితా।",
+    "display": "అస్థిసంస్థితా।",
+    "source_line": 288,
+    "original_number": 516
+  },
+  {
+    "number": 517,
+    "original": "అంకుశాదిప్రహరణా।",
+    "display": "అంకుశాదిప్రహరణా।",
+    "source_line": 289,
+    "original_number": 517
+  },
+  {
+    "number": 518,
+    "original": "వరదాదినిషేవితా।",
+    "display": "వరదాదినిషేవితా।",
+    "source_line": 289,
+    "original_number": 518
+  },
+  {
+    "number": 519,
+    "original": "ముద్గౌదనాసక్తచిత్తా।",
+    "display": "ముద్గౌదనాసక్తచిత్తా।",
+    "source_line": 291,
+    "original_number": 519
+  },
+  {
+    "number": 520,
+    "original": "సాకిన్యంబాస్వరూపిణీ।",
+    "display": "సాకిన్యంబాస్వరూపిణీ।",
+    "source_line": 291,
+    "original_number": 520
+  },
+  {
+    "number": 521,
+    "original": "ఆజ్ఞాచక్రాబ్జనిలయా।",
+    "display": "ఆజ్ఞాచక్రాబ్జనిలయా।",
+    "source_line": 292,
+    "original_number": 521
+  },
+  {
+    "number": 522,
+    "original": "శుక్లవర్ణా।",
+    "display": "శుక్లవర్ణా।",
+    "source_line": 292,
+    "original_number": 522
+  },
+  {
+    "number": 523,
+    "original": "షడాననా।",
+    "display": "షడాననా।",
+    "source_line": 292,
+    "original_number": 523
+  },
+  {
+    "number": 524,
+    "original": "మజ్జాసంస్థా।",
+    "display": "మజ్జాసంస్థా।",
+    "source_line": 293,
+    "original_number": 524
+  },
+  {
+    "number": 525,
+    "original": "హంసవతీముఖ్యశక్తిసమన్వితా।",
+    "display": "హంసవతీముఖ్యశక్తిసమన్వితా।",
+    "source_line": 293,
+    "original_number": 525
+  },
+  {
+    "number": 526,
+    "original": "హరిద్రాన్నైకరసికా।",
+    "display": "హరిద్రాన్నైకరసికా।",
+    "source_line": 294,
+    "original_number": 526
+  },
+  {
+    "number": 527,
+    "original": "హాకినీరూపధారిణీ।",
+    "display": "హాకినీరూపధారిణీ।",
+    "source_line": 294,
+    "original_number": 527
+  },
+  {
+    "number": 528,
+    "original": "సహస్రదళపద్మస్థా।",
+    "display": "సహస్రదళపద్మస్థా।",
+    "source_line": 296,
+    "original_number": 528
+  },
+  {
+    "number": 529,
+    "original": "సర్వవర్ణోపశోభితా।",
+    "display": "సర్వవర్ణోపశోభితా।",
+    "source_line": 296,
+    "original_number": 529
+  },
+  {
+    "number": 530,
+    "original": "సర్వాయుధధరా।",
+    "display": "సర్వాయుధధరా।",
+    "source_line": 297,
+    "original_number": 530
+  },
+  {
+    "number": 531,
+    "original": "శుక్లసంస్థితా।",
+    "display": "శుక్లసంస్థితా।",
+    "source_line": 297,
+    "original_number": 531
+  },
+  {
+    "number": 532,
+    "original": "సర్వతోముఖీ।",
+    "display": "సర్వతోముఖీ।",
+    "source_line": 297,
+    "original_number": 532
+  },
+  {
+    "number": 533,
+    "original": "సర్వౌదనప్రీతచిత్తా।",
+    "display": "సర్వౌదనప్రీతచిత్తా।",
+    "source_line": 299,
+    "original_number": 533
+  },
+  {
+    "number": 534,
+    "original": "యాకిన్యంబాస్వరూపిణీ।",
+    "display": "యాకిన్యంబాస్వరూపిణీ।",
+    "source_line": 299,
+    "original_number": 534
+  },
+  {
+    "number": 535,
+    "original": "స్వాహా।",
+    "display": "స్వాహా।",
+    "source_line": 300,
+    "original_number": 535
+  },
+  {
+    "number": 536,
+    "original": "స్వధా।",
+    "display": "స్వధా।",
+    "source_line": 300,
+    "original_number": 536
+  },
+  {
+    "number": 537,
+    "original": "అమతిః।",
+    "display": "అమతిః।",
+    "source_line": 300,
+    "original_number": 537
+  },
+  {
+    "number": 538,
+    "original": "మేధా।",
+    "display": "మేధా।",
+    "source_line": 300,
+    "original_number": 538
+  },
+  {
+    "number": 539,
+    "original": "శ్రుతిః।",
+    "display": "శ్రుతిః।",
+    "source_line": 300,
+    "original_number": 539
+  },
+  {
+    "number": 540,
+    "original": "స్మృతిః।",
+    "display": "స్మృతిః।",
+    "source_line": 300,
+    "original_number": 540
+  },
+  {
+    "number": 541,
+    "original": "అనుత్తమా।",
+    "display": "అనుత్తమా।",
+    "source_line": 300,
+    "original_number": 541
+  },
+  {
+    "number": 542,
+    "original": "పుణ్యకీర్తిః।",
+    "display": "పుణ్యకీర్తిః।",
+    "source_line": 302,
+    "original_number": 542
+  },
+  {
+    "number": 543,
+    "original": "పుణ్యలభ్యా।",
+    "display": "పుణ్యలభ్యా।",
+    "source_line": 302,
+    "original_number": 543
+  },
+  {
+    "number": 544,
+    "original": "పుణ్యశ్రవణకీర్తనా।",
+    "display": "పుణ్యశ్రవణకీర్తనా।",
+    "source_line": 302,
+    "original_number": 544
+  },
+  {
+    "number": 545,
+    "original": "పులోమజార్చితా।",
+    "display": "పులోమజార్చితా।",
+    "source_line": 303,
+    "original_number": 545
+  },
+  {
+    "number": 546,
+    "original": "బంధమోచనీ।",
+    "display": "బంధమోచనీ।",
+    "source_line": 303,
+    "original_number": 546
+  },
+  {
+    "number": 547,
+    "original": "బంధురాలకా।",
+    "display": "బంధురాలకా।",
+    "source_line": 303,
+    "original_number": 547
+  },
+  {
+    "number": 548,
+    "original": "విమర్శరూపిణీ।",
+    "display": "విమర్శరూపిణీ।",
+    "source_line": 305,
+    "original_number": 548
+  },
+  {
+    "number": 549,
+    "original": "విద్యా।",
+    "display": "విద్యా।",
+    "source_line": 305,
+    "original_number": 549
+  },
+  {
+    "number": 550,
+    "original": "వియదాదిజగత్ప్రసూః।",
+    "display": "వియదాదిజగత్ప్రసూః।",
+    "source_line": 305,
+    "original_number": 550
+  },
+  {
+    "number": 551,
+    "original": "సర్వవ్యాధిప్రశమనీ।",
+    "display": "సర్వవ్యాధిప్రశమనీ।",
+    "source_line": 306,
+    "original_number": 551
+  },
+  {
+    "number": 552,
+    "original": "సర్వమృత్యునివారిణీ।",
+    "display": "సర్వమృత్యునివారిణీ।",
+    "source_line": 306,
+    "original_number": 552
+  },
+  {
+    "number": 553,
+    "original": "అగ్రగణ్యా।",
+    "display": "అగ్రగణ్యా।",
+    "source_line": 307,
+    "original_number": 553
+  },
+  {
+    "number": 554,
+    "original": "అచింత్యరూపా।",
+    "display": "అచింత్యరూపా।",
+    "source_line": 307,
+    "original_number": 554
+  },
+  {
+    "number": 555,
+    "original": "కలికల్మషనాశినీ।",
+    "display": "కలికల్మషనాశినీ।",
+    "source_line": 307,
+    "original_number": 555
+  },
+  {
+    "number": 556,
+    "original": "కాత్యాయనీ।",
+    "display": "కాత్యాయనీ।",
+    "source_line": 308,
+    "original_number": 556
+  },
+  {
+    "number": 557,
+    "original": "కాలహంత్రీ।",
+    "display": "కాలహంత్రీ।",
+    "source_line": 308,
+    "original_number": 557
+  },
+  {
+    "number": 558,
+    "original": "కమలాక్షనిషేవితా।",
+    "display": "కమలాక్షనిషేవితా।",
+    "source_line": 308,
+    "original_number": 558
+  },
+  {
+    "number": 559,
+    "original": "తాంబూలపూరితముఖీ।",
+    "display": "తాంబూలపూరితముఖీ।",
+    "source_line": 310,
+    "original_number": 559
+  },
+  {
+    "number": 560,
+    "original": "దాడిమీకుసుమప్రభా।",
+    "display": "దాడిమీకుసుమప్రభా।",
+    "source_line": 310,
+    "original_number": 560
+  },
+  {
+    "number": 561,
+    "original": "మృగాక్షీ।",
+    "display": "మృగాక్షీ।",
+    "source_line": 311,
+    "original_number": 561
+  },
+  {
+    "number": 562,
+    "original": "మోహినీ।",
+    "display": "మోహినీ।",
+    "source_line": 311,
+    "original_number": 562
+  },
+  {
+    "number": 563,
+    "original": "ముఖ్యా।",
+    "display": "ముఖ్యా।",
+    "source_line": 311,
+    "original_number": 563
+  },
+  {
+    "number": 564,
+    "original": "మృడానీ।",
+    "display": "మృడానీ।",
+    "source_line": 311,
+    "original_number": 564
+  },
+  {
+    "number": 565,
+    "original": "మిత్రరూపిణీ।",
+    "display": "మిత్రరూపిణీ।",
+    "source_line": 311,
+    "original_number": 565
+  },
+  {
+    "number": 566,
+    "original": "నిత్యతృప్తా।",
+    "display": "నిత్యతృప్తా।",
+    "source_line": 313,
+    "original_number": 566
+  },
+  {
+    "number": 567,
+    "original": "భక్తనిధిః।",
+    "display": "భక్తనిధిః।",
+    "source_line": 313,
+    "original_number": 567
+  },
+  {
+    "number": 568,
+    "original": "నియంత్రీ।",
+    "display": "నియంత్రీ।",
+    "source_line": 313,
+    "original_number": 568
+  },
+  {
+    "number": 569,
+    "original": "నిఖిలేశ్వరీ।",
+    "display": "నిఖిలేశ్వరీ।",
+    "source_line": 313,
+    "original_number": 569
+  },
+  {
+    "number": 570,
+    "original": "మైత్ర్యాదివాసనాలభ్యా।",
+    "display": "మైత్ర్యాదివాసనాలభ్యా।",
+    "source_line": 314,
+    "original_number": 570
+  },
+  {
+    "number": 571,
+    "original": "మహాప్రళయసాక్షిణీ।",
+    "display": "మహాప్రళయసాక్షిణీ।",
+    "source_line": 314,
+    "original_number": 571
+  },
+  {
+    "number": 572,
+    "original": "పరాశక్తిః।",
+    "display": "పరాశక్తిః।",
+    "source_line": 315,
+    "original_number": 572
+  },
+  {
+    "number": 573,
+    "original": "పరానిష్ఠా।",
+    "display": "పరానిష్ఠా।",
+    "source_line": 315,
+    "original_number": 573
+  },
+  {
+    "number": 574,
+    "original": "ప్రజ్ఞానఘనరూపిణీ।",
+    "display": "ప్రజ్ఞానఘనరూపిణీ।",
+    "source_line": 315,
+    "original_number": 574
+  },
+  {
+    "number": 575,
+    "original": "మాధ్వీపానాలసా।",
+    "display": "మాధ్వీపానాలసా।",
+    "source_line": 316,
+    "original_number": 575
+  },
+  {
+    "number": 576,
+    "original": "మత్తా।",
+    "display": "మత్తా।",
+    "source_line": 316,
+    "original_number": 576
+  },
+  {
+    "number": 577,
+    "original": "మాతృకావర్ణరూపిణీ।",
+    "display": "మాతృకావర్ణరూపిణీ।",
+    "source_line": 316,
+    "original_number": 577
+  },
+  {
+    "number": 578,
+    "original": "మహాకైలాసనిలయా।",
+    "display": "మహాకైలాసనిలయా।",
+    "source_line": 317,
+    "original_number": 578
+  },
+  {
+    "number": 579,
+    "original": "మృణాలమృదుదోర్లతా।",
+    "display": "మృణాలమృదుదోర్లతా।",
+    "source_line": 317,
+    "original_number": 579
+  },
+  {
+    "number": 580,
+    "original": "మహనీయా।",
+    "display": "మహనీయా।",
+    "source_line": 318,
+    "original_number": 580
+  },
+  {
+    "number": 581,
+    "original": "దయామూర్తిః।",
+    "display": "దయామూర్తిః।",
+    "source_line": 318,
+    "original_number": 581
+  },
+  {
+    "number": 582,
+    "original": "మహాసామ్రాజ్యశాలినీ।",
+    "display": "మహాసామ్రాజ్యశాలినీ।",
+    "source_line": 318,
+    "original_number": 582
+  },
+  {
+    "number": 583,
+    "original": "ఆత్మవిద్యా।",
+    "display": "ఆత్మవిద్యా।",
+    "source_line": 319,
+    "original_number": 583
+  },
+  {
+    "number": 584,
+    "original": "మహావిద్యా।",
+    "display": "మహావిద్యా।",
+    "source_line": 319,
+    "original_number": 584
+  },
+  {
+    "number": 585,
+    "original": "శ్రీవిద్యా।",
+    "display": "శ్రీవిద్యా।",
+    "source_line": 319,
+    "original_number": 585
+  },
+  {
+    "number": 586,
+    "original": "కామసేవితా।",
+    "display": "కామసేవితా।",
+    "source_line": 319,
+    "original_number": 586
+  },
+  {
+    "number": 587,
+    "original": "శ్రీషోడశాక్షరీవిద్యా।",
+    "display": "శ్రీషోడశాక్షరీవిద్యా।",
+    "source_line": 320,
+    "original_number": 587
+  },
+  {
+    "number": 588,
+    "original": "త్రికూటా।",
+    "display": "త్రికూటా।",
+    "source_line": 320,
+    "original_number": 588
+  },
+  {
+    "number": 589,
+    "original": "కామకోటికా।",
+    "display": "కామకోటికా।",
+    "source_line": 320,
+    "original_number": 589
+  },
+  {
+    "number": 590,
+    "original": "కటాక్షకింకరీభూతకమలాకోటిసేవితా।",
+    "display": "కటాక్షకింకరీభూతకమలాకోటిసేవితా।",
+    "source_line": 322,
+    "original_number": 590
+  },
+  {
+    "number": 591,
+    "original": "శిరఃస్థితా।",
+    "display": "శిరఃస్థితా।",
+    "source_line": 323,
+    "original_number": 591
+  },
+  {
+    "number": 592,
+    "original": "చంద్రనిభా।",
+    "display": "చంద్రనిభా।",
+    "source_line": 323,
+    "original_number": 592
+  },
+  {
+    "number": 593,
+    "original": "ఫాలస్థా।",
+    "display": "ఫాలస్థా।",
+    "source_line": 323,
+    "original_number": 593
+  },
+  {
+    "number": 594,
+    "original": "ఇంద్రధనుఃప్రభా।",
+    "display": "ఇంద్రధనుఃప్రభా।",
+    "source_line": 323,
+    "original_number": 594
+  },
+  {
+    "number": 595,
+    "original": "హృదయస్థా।",
+    "display": "హృదయస్థా।",
+    "source_line": 325,
+    "original_number": 595
+  },
+  {
+    "number": 596,
+    "original": "రవిప్రఖ్యా।",
+    "display": "రవిప్రఖ్యా।",
+    "source_line": 325,
+    "original_number": 596
+  },
+  {
+    "number": 597,
+    "original": "త్రికోణాంతరదీపికా।",
+    "display": "త్రికోణాంతరదీపికా।",
+    "source_line": 325,
+    "original_number": 597
+  },
+  {
+    "number": 598,
+    "original": "దాక్షాయణీ।",
+    "display": "దాక్షాయణీ।",
+    "source_line": 326,
+    "original_number": 598
+  },
+  {
+    "number": 599,
+    "original": "దైత్యహంత్రీ।",
+    "display": "దైత్యహంత్రీ।",
+    "source_line": 326,
+    "original_number": 599
+  },
+  {
+    "number": 600,
+    "original": "దక్షయజ్ఞవినాశినీ।",
+    "display": "దక్షయజ్ఞవినాశినీ।",
+    "source_line": 326,
+    "original_number": 600
+  },
+  {
+    "number": 601,
+    "original": "దరాందోళితదీర్ఘాక్షీ।",
+    "display": "దరాందోళితదీర్ఘాక్షీ।",
+    "source_line": 328,
+    "original_number": 601
+  },
+  {
+    "number": 602,
+    "original": "దరహాసోజ్జ్వలన్ముఖీ।",
+    "display": "దరహాసోజ్జ్వలన్ముఖీ।",
+    "source_line": 328,
+    "original_number": 602
+  },
+  {
+    "number": 603,
+    "original": "గురుమూర్తిః।",
+    "display": "గురుమూర్తిః।",
+    "source_line": 329,
+    "original_number": 603
+  },
+  {
+    "number": 604,
+    "original": "గుణనిధిః।",
+    "display": "గుణనిధిః।",
+    "source_line": 329,
+    "original_number": 604
+  },
+  {
+    "number": 605,
+    "original": "గోమాతా।",
+    "display": "గోమాతా।",
+    "source_line": 329,
+    "original_number": 605
+  },
+  {
+    "number": 606,
+    "original": "గుహజన్మభూః।",
+    "display": "గుహజన్మభూః।",
+    "source_line": 329,
+    "original_number": 606
+  },
+  {
+    "number": 607,
+    "original": "దేవేశీ।",
+    "display": "దేవేశీ।",
+    "source_line": 331,
+    "original_number": 607
+  },
+  {
+    "number": 608,
+    "original": "దండనీతిస్థా।",
+    "display": "దండనీతిస్థా।",
+    "source_line": 331,
+    "original_number": 608
+  },
+  {
+    "number": 609,
+    "original": "దహరాకాశరూపిణీ।",
+    "display": "దహరాకాశరూపిణీ।",
+    "source_line": 331,
+    "original_number": 609
+  },
+  {
+    "number": 610,
+    "original": "ప్రతిపన్ముఖ్యరాకాంతతిథిమండలపూజితా।",
+    "display": "ప్రతిపన్ముఖ్యరాకాంతతిథిమండలపూజితా।",
+    "source_line": 332,
+    "original_number": 610
+  },
+  {
+    "number": 611,
+    "original": "కళాత్మికా।",
+    "display": "కళాత్మికా।",
+    "source_line": 333,
+    "original_number": 611
+  },
+  {
+    "number": 612,
+    "original": "కళానాథా।",
+    "display": "కళానాథా।",
+    "source_line": 333,
+    "original_number": 612
+  },
+  {
+    "number": 613,
+    "original": "కావ్యాలాపవినోదినీ।",
+    "display": "కావ్యాలాపవినోదినీ।",
+    "source_line": 333,
+    "original_number": 613
+  },
+  {
+    "number": 614,
+    "original": "సచామరరమావాణీసవ్యదక్షిణసేవితా।",
+    "display": "సచామరరమావాణీసవ్యదక్షిణసేవితా।",
+    "source_line": 334,
+    "original_number": 614
+  },
+  {
+    "number": 615,
+    "original": "ఆదిశక్తిః।",
+    "display": "ఆదిశక్తిః।",
+    "source_line": 336,
+    "original_number": 615
+  },
+  {
+    "number": 616,
+    "original": "అమేయా।",
+    "display": "అమేయా।",
+    "source_line": 336,
+    "original_number": 616
+  },
+  {
+    "number": 617,
+    "original": "ఆత్మా।",
+    "display": "ఆత్మా।",
+    "source_line": 336,
+    "original_number": 617
+  },
+  {
+    "number": 618,
+    "original": "పరమా।",
+    "display": "పరమా।",
+    "source_line": 336,
+    "original_number": 618
+  },
+  {
+    "number": 619,
+    "original": "పావనాకృతిః।",
+    "display": "పావనాకృతిః।",
+    "source_line": 336,
+    "original_number": 619
+  },
+  {
+    "number": 620,
+    "original": "అనేకకోటిబ్రహ్మాండజననీ।",
+    "display": "అనేకకోటిబ్రహ్మాండజననీ।",
+    "source_line": 337,
+    "original_number": 620
+  },
+  {
+    "number": 621,
+    "original": "దివ్యవిగ్రహా।",
+    "display": "దివ్యవిగ్రహా।",
+    "source_line": 337,
+    "original_number": 621
+  },
+  {
+    "number": 622,
+    "original": "క్లీంకారీ।",
+    "display": "క్లీంకారీ।",
+    "source_line": 339,
+    "original_number": 622
+  },
+  {
+    "number": 623,
+    "original": "కేవలా।",
+    "display": "కేవలా।",
+    "source_line": 339,
+    "original_number": 623
+  },
+  {
+    "number": 624,
+    "original": "గుహ్యా।",
+    "display": "గుహ్యా।",
+    "source_line": 339,
+    "original_number": 624
+  },
+  {
+    "number": 625,
+    "original": "కైవల్యపదదాయినీ।",
+    "display": "కైవల్యపదదాయినీ।",
+    "source_line": 339,
+    "original_number": 625
+  },
+  {
+    "number": 626,
+    "original": "త్రిపురా।",
+    "display": "త్రిపురా।",
+    "source_line": 340,
+    "original_number": 626
+  },
+  {
+    "number": 627,
+    "original": "త్రిజగద్వంద్యా।",
+    "display": "త్రిజగద్వంద్యా।",
+    "source_line": 340,
+    "original_number": 627
+  },
+  {
+    "number": 628,
+    "original": "త్రిమూర్తిః।",
+    "display": "త్రిమూర్తిః।",
+    "source_line": 340,
+    "original_number": 628
+  },
+  {
+    "number": 629,
+    "original": "త్రిదశేశ్వరీ।",
+    "display": "త్రిదశేశ్వరీ।",
+    "source_line": 340,
+    "original_number": 629
+  },
+  {
+    "number": 630,
+    "original": "త్ర్యక్షరీ।",
+    "display": "త్ర్యక్షరీ।",
+    "source_line": 342,
+    "original_number": 630
+  },
+  {
+    "number": 631,
+    "original": "దివ్యగంధాఢ్యా।",
+    "display": "దివ్యగంధాఢ్యా।",
+    "source_line": 342,
+    "original_number": 631
+  },
+  {
+    "number": 632,
+    "original": "సిందూరతిలకాంచితా।",
+    "display": "సిందూరతిలకాంచితా।",
+    "source_line": 342,
+    "original_number": 632
+  },
+  {
+    "number": 633,
+    "original": "ఉమా।",
+    "display": "ఉమా।",
+    "source_line": 343,
+    "original_number": 633
+  },
+  {
+    "number": 634,
+    "original": "శైలేంద్రతనయా।",
+    "display": "శైలేంద్రతనయా।",
+    "source_line": 343,
+    "original_number": 634
+  },
+  {
+    "number": 635,
+    "original": "గౌరీ।",
+    "display": "గౌరీ।",
+    "source_line": 343,
+    "original_number": 635
+  },
+  {
+    "number": 636,
+    "original": "గంధర్వసేవితా।",
+    "display": "గంధర్వసేవితా।",
+    "source_line": 343,
+    "original_number": 636
+  },
+  {
+    "number": 637,
+    "original": "విశ్వగర్భా।",
+    "display": "విశ్వగర్భా।",
+    "source_line": 345,
+    "original_number": 637
+  },
+  {
+    "number": 638,
+    "original": "స్వర్ణగర్భా।",
+    "display": "స్వర్ణగర్భా।",
+    "source_line": 345,
+    "original_number": 638
+  },
+  {
+    "number": 639,
+    "original": "అవరదా।",
+    "display": "అవరదా।",
+    "source_line": 345,
+    "original_number": 639
+  },
+  {
+    "number": 640,
+    "original": "వాగధీశ్వరీ।",
+    "display": "వాగధీశ్వరీ।",
+    "source_line": 345,
+    "original_number": 640
+  },
+  {
+    "number": 641,
+    "original": "ధ్యానగమ్యా।",
+    "display": "ధ్యానగమ్యా।",
+    "source_line": 346,
+    "original_number": 641
+  },
+  {
+    "number": 642,
+    "original": "అపరిచ్ఛేద్యా।",
+    "display": "అపరిచ్ఛేద్యా।",
+    "source_line": 346,
+    "original_number": 642
+  },
+  {
+    "number": 643,
+    "original": "జ్ఞానదా।",
+    "display": "జ్ఞానదా।",
+    "source_line": 346,
+    "original_number": 643
+  },
+  {
+    "number": 644,
+    "original": "జ్ఞానవిగ్రహా।",
+    "display": "జ్ఞానవిగ్రహా।",
+    "source_line": 346,
+    "original_number": 644
+  },
+  {
+    "number": 645,
+    "original": "సర్వవేదాంతసంవేద్యా।",
+    "display": "సర్వవేదాంతసంవేద్యా।",
+    "source_line": 348,
+    "original_number": 645
+  },
+  {
+    "number": 646,
+    "original": "సత్యానందస్వరూపిణీ।",
+    "display": "సత్యానందస్వరూపిణీ।",
+    "source_line": 348,
+    "original_number": 646
+  },
+  {
+    "number": 647,
+    "original": "లోపాముద్రార్చితా।",
+    "display": "లోపాముద్రార్చితా।",
+    "source_line": 349,
+    "original_number": 647
+  },
+  {
+    "number": 648,
+    "original": "లీలాక్లప్తబ్రహ్మాండమండలా।",
+    "display": "లీలాక్లప్తబ్రహ్మాండమండలా।",
+    "source_line": 349,
+    "original_number": 648
+  },
+  {
+    "number": 649,
+    "original": "అదృశ్యా।",
+    "display": "అదృశ్యా।",
+    "source_line": 351,
+    "original_number": 649
+  },
+  {
+    "number": 650,
+    "original": "దృశ్యరహితా।",
+    "display": "దృశ్యరహితా।",
+    "source_line": 351,
+    "original_number": 650
+  },
+  {
+    "number": 651,
+    "original": "విజ్ఞాత్రీ।",
+    "display": "విజ్ఞాత్రీ।",
+    "source_line": 351,
+    "original_number": 651
+  },
+  {
+    "number": 652,
+    "original": "వేద్యవర్జితా।",
+    "display": "వేద్యవర్జితా।",
+    "source_line": 351,
+    "original_number": 652
+  },
+  {
+    "number": 653,
+    "original": "యోగినీ।",
+    "display": "యోగినీ।",
+    "source_line": 352,
+    "original_number": 653
+  },
+  {
+    "number": 654,
+    "original": "యోగదా।",
+    "display": "యోగదా।",
+    "source_line": 352,
+    "original_number": 654
+  },
+  {
+    "number": 655,
+    "original": "యోగ్యా।",
+    "display": "యోగ్యా।",
+    "source_line": 352,
+    "original_number": 655
+  },
+  {
+    "number": 656,
+    "original": "యోగానందా।",
+    "display": "యోగానందా।",
+    "source_line": 352,
+    "original_number": 656
+  },
+  {
+    "number": 657,
+    "original": "యుగంధరా।",
+    "display": "యుగంధరా।",
+    "source_line": 352,
+    "original_number": 657
+  },
+  {
+    "number": 658,
+    "original": "ఇచ్ఛాశక్తిజ్ఞానశక్తిక్రియాశక్తిస్వరూపిణీ।",
+    "display": "ఇచ్ఛాశక్తిజ్ఞానశక్తిక్రియాశక్తిస్వరూపిణీ।",
+    "source_line": 354,
+    "original_number": 658
+  },
+  {
+    "number": 659,
+    "original": "సర్వాధారా।",
+    "display": "సర్వాధారా।",
+    "source_line": 355,
+    "original_number": 659
+  },
+  {
+    "number": 660,
+    "original": "సుప్రతిష్ఠా।",
+    "display": "సుప్రతిష్ఠా।",
+    "source_line": 355,
+    "original_number": 660
+  },
+  {
+    "number": 661,
+    "original": "సదసద్రూపధారిణీ।",
+    "display": "సదసద్రూపధారిణీ।",
+    "source_line": 355,
+    "original_number": 661
+  },
+  {
+    "number": 662,
+    "original": "అష్టమూర్తిః।",
+    "display": "అష్టమూర్తిః।",
+    "source_line": 357,
+    "original_number": 662
+  },
+  {
+    "number": 663,
+    "original": "అజాజైత్రీ।",
+    "display": "అజాజైత్రీ।",
+    "source_line": 357,
+    "original_number": 663
+  },
+  {
+    "number": 664,
+    "original": "లోకయాత్రావిధాయినీ।",
+    "display": "లోకయాత్రావిధాయినీ।",
+    "source_line": 357,
+    "original_number": 664
+  },
+  {
+    "number": 665,
+    "original": "ఏకాకినీ।",
+    "display": "ఏకాకినీ।",
+    "source_line": 358,
+    "original_number": 665
+  },
+  {
+    "number": 666,
+    "original": "భూమరూపా।",
+    "display": "భూమరూపా।",
+    "source_line": 358,
+    "original_number": 666
+  },
+  {
+    "number": 667,
+    "original": "నిర్ద్వైతా।",
+    "display": "నిర్ద్వైతా।",
+    "source_line": 358,
+    "original_number": 667
+  },
+  {
+    "number": 668,
+    "original": "ద్వైతవర్జితా।",
+    "display": "ద్వైతవర్జితా।",
+    "source_line": 358,
+    "original_number": 668
+  },
+  {
+    "number": 669,
+    "original": "అన్నదా।",
+    "display": "అన్నదా।",
+    "source_line": 360,
+    "original_number": 669
+  },
+  {
+    "number": 670,
+    "original": "వసుదా।",
+    "display": "వసుదా।",
+    "source_line": 360,
+    "original_number": 670
+  },
+  {
+    "number": 671,
+    "original": "వృద్ధా।",
+    "display": "వృద్ధా।",
+    "source_line": 360,
+    "original_number": 671
+  },
+  {
+    "number": 672,
+    "original": "బ్రహ్మాత్మైక్యస్వరూపిణీ।",
+    "display": "బ్రహ్మాత్మైక్యస్వరూపిణీ।",
+    "source_line": 360,
+    "original_number": 672
+  },
+  {
+    "number": 673,
+    "original": "బృహతీ।",
+    "display": "బృహతీ।",
+    "source_line": 361,
+    "original_number": 673
+  },
+  {
+    "number": 674,
+    "original": "బ్రాహ్మణీ।",
+    "display": "బ్రాహ్మణీ।",
+    "source_line": 361,
+    "original_number": 674
+  },
+  {
+    "number": 675,
+    "original": "బ్రాహ్మీ।",
+    "display": "బ్రాహ్మీ।",
+    "source_line": 361,
+    "original_number": 675
+  },
+  {
+    "number": 676,
+    "original": "బ్రహ్మానందా।",
+    "display": "బ్రహ్మానందా।",
+    "source_line": 361,
+    "original_number": 676
+  },
+  {
+    "number": 677,
+    "original": "బలిప్రియా।",
+    "display": "బలిప్రియా।",
+    "source_line": 361,
+    "original_number": 677
+  },
+  {
+    "number": 678,
+    "original": "భాషారూపా।",
+    "display": "భాషారూపా।",
+    "source_line": 363,
+    "original_number": 678
+  },
+  {
+    "number": 679,
+    "original": "బృహత్సేనా।",
+    "display": "బృహత్సేనా।",
+    "source_line": 363,
+    "original_number": 679
+  },
+  {
+    "number": 680,
+    "original": "భావాభావవివర్జితా।",
+    "display": "భావాభావవివర్జితా।",
+    "source_line": 363,
+    "original_number": 680
+  },
+  {
+    "number": 681,
+    "original": "సుఖారాధ్యా।",
+    "display": "సుఖారాధ్యా।",
+    "source_line": 364,
+    "original_number": 681
+  },
+  {
+    "number": 682,
+    "original": "శుభకరీ।",
+    "display": "శుభకరీ।",
+    "source_line": 364,
+    "original_number": 682
+  },
+  {
+    "number": 683,
+    "original": "శోభనాసులభాగతిః।",
+    "display": "శోభనాసులభాగతిః।",
+    "source_line": 364,
+    "original_number": 683
+  },
+  {
+    "number": 684,
+    "original": "రాజరాజేశ్వరీ।",
+    "display": "రాజరాజేశ్వరీ।",
+    "source_line": 365,
+    "original_number": 684
+  },
+  {
+    "number": 685,
+    "original": "రాజ్యదాయినీ।",
+    "display": "రాజ్యదాయినీ।",
+    "source_line": 365,
+    "original_number": 685
+  },
+  {
+    "number": 686,
+    "original": "రాజ్యవల్లభా।",
+    "display": "రాజ్యవల్లభా।",
+    "source_line": 365,
+    "original_number": 686
+  },
+  {
+    "number": 687,
+    "original": "రాజత్కృపా।",
+    "display": "రాజత్కృపా।",
+    "source_line": 366,
+    "original_number": 687
+  },
+  {
+    "number": 688,
+    "original": "రాజపీఠనివేశితనిజాశ్రితా।",
+    "display": "రాజపీఠనివేశితనిజాశ్రితా।",
+    "source_line": 366,
+    "original_number": 688
+  },
+  {
+    "number": 689,
+    "original": "రాజ్యలక్ష్మీః।",
+    "display": "రాజ్యలక్ష్మీః।",
+    "source_line": 368,
+    "original_number": 689
+  },
+  {
+    "number": 690,
+    "original": "కోశనాథా।",
+    "display": "కోశనాథా।",
+    "source_line": 368,
+    "original_number": 690
+  },
+  {
+    "number": 691,
+    "original": "చతురంగబలేశ్వరీ।",
+    "display": "చతురంగబలేశ్వరీ।",
+    "source_line": 368,
+    "original_number": 691
+  },
+  {
+    "number": 692,
+    "original": "సామ్రాజ్యదాయినీ।",
+    "display": "సామ్రాజ్యదాయినీ।",
+    "source_line": 369,
+    "original_number": 692
+  },
+  {
+    "number": 693,
+    "original": "సత్యసంధా।",
+    "display": "సత్యసంధా।",
+    "source_line": 369,
+    "original_number": 693
+  },
+  {
+    "number": 694,
+    "original": "సాగరమేఖలా।",
+    "display": "సాగరమేఖలా।",
+    "source_line": 369,
+    "original_number": 694
+  },
+  {
+    "number": 695,
+    "original": "దీక్షితా।",
+    "display": "దీక్షితా।",
+    "source_line": 371,
+    "original_number": 695
+  },
+  {
+    "number": 696,
+    "original": "దైత్యశమనీ।",
+    "display": "దైత్యశమనీ।",
+    "source_line": 371,
+    "original_number": 696
+  },
+  {
+    "number": 697,
+    "original": "సర్వలోకవశంకరీ।",
+    "display": "సర్వలోకవశంకరీ।",
+    "source_line": 371,
+    "original_number": 697
+  },
+  {
+    "number": 698,
+    "original": "సర్వార్థదాత్రీ।",
+    "display": "సర్వార్థదాత్రీ।",
+    "source_line": 372,
+    "original_number": 698
+  },
+  {
+    "number": 699,
+    "original": "సావిత్రీ।",
+    "display": "సావిత్రీ।",
+    "source_line": 372,
+    "original_number": 699
+  },
+  {
+    "number": 700,
+    "original": "సచ్చిదానందరూపిణీ।",
+    "display": "సచ్చిదానందరూపిణీ।",
+    "source_line": 372,
+    "original_number": 700
+  },
+  {
+    "number": 701,
+    "original": "దేశకాలాపరిచ్ఛిన్నా।",
+    "display": "దేశకాలాపరిచ్ఛిన్నా।",
+    "source_line": 373,
+    "original_number": 701
+  },
+  {
+    "number": 702,
+    "original": "సర్వగా।",
+    "display": "సర్వగా।",
+    "source_line": 373,
+    "original_number": 702
+  },
+  {
+    "number": 703,
+    "original": "సర్వమోహినీ।",
+    "display": "సర్వమోహినీ।",
+    "source_line": 373,
+    "original_number": 703
+  },
+  {
+    "number": 704,
+    "original": "సరస్వతీ।",
+    "display": "సరస్వతీ।",
+    "source_line": 374,
+    "original_number": 704
+  },
+  {
+    "number": 705,
+    "original": "శాస్త్రమయీ।",
+    "display": "శాస్త్రమయీ।",
+    "source_line": 374,
+    "original_number": 705
+  },
+  {
+    "number": 706,
+    "original": "గుహాంబా।",
+    "display": "గుహాంబా।",
+    "source_line": 374,
+    "original_number": 706
+  },
+  {
+    "number": 707,
+    "original": "గుహ్యరూపిణీ।",
+    "display": "గుహ్యరూపిణీ।",
+    "source_line": 374,
+    "original_number": 707
+  },
+  {
+    "number": 708,
+    "original": "సర్వోపాధివినిర్ముక్తా।",
+    "display": "సర్వోపాధివినిర్ముక్తా।",
+    "source_line": 376,
+    "original_number": 708
+  },
+  {
+    "number": 709,
+    "original": "సదాశివపతివ్రతా।",
+    "display": "సదాశివపతివ్రతా।",
+    "source_line": 376,
+    "original_number": 709
+  },
+  {
+    "number": 710,
+    "original": "సంప్రదాయేశ్వరీ।",
+    "display": "సంప్రదాయేశ్వరీ।",
+    "source_line": 377,
+    "original_number": 710
+  },
+  {
+    "number": 711,
+    "original": "సాధుః।",
+    "display": "సాధుః।",
+    "source_line": 377,
+    "original_number": 711
+  },
+  {
+    "number": 712,
+    "original": "ఈ।",
+    "display": "ఈ।",
+    "source_line": 377,
+    "original_number": 712
+  },
+  {
+    "number": 713,
+    "original": "గురుమండలరూపిణీ।",
+    "display": "గురుమండలరూపిణీ।",
+    "source_line": 377,
+    "original_number": 713
+  },
+  {
+    "number": 714,
+    "original": "కులోత్తీర్ణా।",
+    "display": "కులోత్తీర్ణా।",
+    "source_line": 378,
+    "original_number": 714
+  },
+  {
+    "number": 715,
+    "original": "భగారాధ్యా।",
+    "display": "భగారాధ్యా।",
+    "source_line": 378,
+    "original_number": 715
+  },
+  {
+    "number": 716,
+    "original": "మాయా।",
+    "display": "మాయా।",
+    "source_line": 378,
+    "original_number": 716
+  },
+  {
+    "number": 717,
+    "original": "మధుమతీ।",
+    "display": "మధుమతీ।",
+    "source_line": 378,
+    "original_number": 717
+  },
+  {
+    "number": 718,
+    "original": "మహీ।",
+    "display": "మహీ।",
+    "source_line": 378,
+    "original_number": 718
+  },
+  {
+    "number": 719,
+    "original": "గణాంబా।",
+    "display": "గణాంబా।",
+    "source_line": 379,
+    "original_number": 719
+  },
+  {
+    "number": 720,
+    "original": "గుహ్యకారాధ్యా।",
+    "display": "గుహ్యకారాధ్యా।",
+    "source_line": 379,
+    "original_number": 720
+  },
+  {
+    "number": 721,
+    "original": "కోమలాంగీ।",
+    "display": "కోమలాంగీ।",
+    "source_line": 379,
+    "original_number": 721
+  },
+  {
+    "number": 722,
+    "original": "గురుప్రియా।",
+    "display": "గురుప్రియా।",
+    "source_line": 379,
+    "original_number": 722
+  },
+  {
+    "number": 723,
+    "original": "స్వతంత్రా।",
+    "display": "స్వతంత్రా।",
+    "source_line": 381,
+    "original_number": 723
+  },
+  {
+    "number": 724,
+    "original": "సర్వతంత్రేశీ।",
+    "display": "సర్వతంత్రేశీ।",
+    "source_line": 381,
+    "original_number": 724
+  },
+  {
+    "number": 725,
+    "original": "దక్షిణామూర్తిరూపిణీ।",
+    "display": "దక్షిణామూర్తిరూపిణీ।",
+    "source_line": 381,
+    "original_number": 725
+  },
+  {
+    "number": 726,
+    "original": "సనకాదిసమారాధ్యా।",
+    "display": "సనకాదిసమారాధ్యా।",
+    "source_line": 382,
+    "original_number": 726
+  },
+  {
+    "number": 727,
+    "original": "శివజ్ఞానప్రదాయినీ।",
+    "display": "శివజ్ఞానప్రదాయినీ।",
+    "source_line": 382,
+    "original_number": 727
+  },
+  {
+    "number": 728,
+    "original": "చిత్కళా।",
+    "display": "చిత్కళా।",
+    "source_line": 384,
+    "original_number": 728
+  },
+  {
+    "number": 729,
+    "original": "ఆనందకలికా।",
+    "display": "ఆనందకలికా।",
+    "source_line": 384,
+    "original_number": 729
+  },
+  {
+    "number": 730,
+    "original": "ప్రేమరూపా।",
+    "display": "ప్రేమరూపా।",
+    "source_line": 384,
+    "original_number": 730
+  },
+  {
+    "number": 731,
+    "original": "ప్రియంకరీ।",
+    "display": "ప్రియంకరీ।",
+    "source_line": 384,
+    "original_number": 731
+  },
+  {
+    "number": 732,
+    "original": "నామపారాయణప్రీతా।",
+    "display": "నామపారాయణప్రీతా।",
+    "source_line": 385,
+    "original_number": 732
+  },
+  {
+    "number": 733,
+    "original": "నందివిద్యా।",
+    "display": "నందివిద్యా।",
+    "source_line": 385,
+    "original_number": 733
+  },
+  {
+    "number": 734,
+    "original": "నటేశ్వరీ।",
+    "display": "నటేశ్వరీ।",
+    "source_line": 385,
+    "original_number": 734
+  },
+  {
+    "number": 735,
+    "original": "మిథ్యాజగదధిష్ఠానా।",
+    "display": "మిథ్యాజగదధిష్ఠానా।",
+    "source_line": 387,
+    "original_number": 735
+  },
+  {
+    "number": 736,
+    "original": "ముక్తిదా।",
+    "display": "ముక్తిదా।",
+    "source_line": 387,
+    "original_number": 736
+  },
+  {
+    "number": 737,
+    "original": "ముక్తిరూపిణీ।",
+    "display": "ముక్తిరూపిణీ।",
+    "source_line": 387,
+    "original_number": 737
+  },
+  {
+    "number": 738,
+    "original": "లాస్యప్రియా।",
+    "display": "లాస్యప్రియా।",
+    "source_line": 388,
+    "original_number": 738
+  },
+  {
+    "number": 739,
+    "original": "లయకరీ।",
+    "display": "లయకరీ।",
+    "source_line": 388,
+    "original_number": 739
+  },
+  {
+    "number": 740,
+    "original": "లజ్జా।",
+    "display": "లజ్జా।",
+    "source_line": 388,
+    "original_number": 740
+  },
+  {
+    "number": 741,
+    "original": "రంభాదివందితా।",
+    "display": "రంభాదివందితా।",
+    "source_line": 388,
+    "original_number": 741
+  },
+  {
+    "number": 742,
+    "original": "భవదావసుధావృష్టిః।",
+    "display": "భవదావసుధావృష్టిః।",
+    "source_line": 390,
+    "original_number": 742
+  },
+  {
+    "number": 743,
+    "original": "పాపారణ్యదవానలా।",
+    "display": "పాపారణ్యదవానలా।",
+    "source_line": 390,
+    "original_number": 743
+  },
+  {
+    "number": 744,
+    "original": "దౌర్భాగ్యతూలవాతూలా।",
+    "display": "దౌర్భాగ్యతూలవాతూలా।",
+    "source_line": 391,
+    "original_number": 744
+  },
+  {
+    "number": 745,
+    "original": "జరాధ్వాంతరవిప్రభా।",
+    "display": "జరాధ్వాంతరవిప్రభా।",
+    "source_line": 391,
+    "original_number": 745
+  },
+  {
+    "number": 746,
+    "original": "భాగ్యాబ్ధిచంద్రికా।",
+    "display": "భాగ్యాబ్ధిచంద్రికా।",
+    "source_line": 392,
+    "original_number": 746
+  },
+  {
+    "number": 747,
+    "original": "భక్తచిత్తకేకిఘనాఘనా।",
+    "display": "భక్తచిత్తకేకిఘనాఘనా।",
+    "source_line": 392,
+    "original_number": 747
+  },
+  {
+    "number": 748,
+    "original": "రోగపర్వతదంభోళిః।",
+    "display": "రోగపర్వతదంభోళిః।",
+    "source_line": 393,
+    "original_number": 748
+  },
+  {
+    "number": 749,
+    "original": "మృత్యుదారుకుఠారికా।",
+    "display": "మృత్యుదారుకుఠారికా।",
+    "source_line": 393,
+    "original_number": 749
+  },
+  {
+    "number": 750,
+    "original": "మహేశ్వరీ।",
+    "display": "మహేశ్వరీ।",
+    "source_line": 395,
+    "original_number": 750
+  },
+  {
+    "number": 751,
+    "original": "మహాకాళీ।",
+    "display": "మహాకాళీ।",
+    "source_line": 395,
+    "original_number": 751
+  },
+  {
+    "number": 752,
+    "original": "మహాగ్రాసా।",
+    "display": "మహాగ్రాసా।",
+    "source_line": 395,
+    "original_number": 752
+  },
+  {
+    "number": 753,
+    "original": "మహాశనా।",
+    "display": "మహాశనా।",
+    "source_line": 395,
+    "original_number": 753
+  },
+  {
+    "number": 754,
+    "original": "అపర్ణా।",
+    "display": "అపర్ణా।",
+    "source_line": 396,
+    "original_number": 754
+  },
+  {
+    "number": 755,
+    "original": "చండికా।",
+    "display": "చండికా।",
+    "source_line": 396,
+    "original_number": 755
+  },
+  {
+    "number": 756,
+    "original": "చండముండాసురనిషూదినీ।",
+    "display": "చండముండాసురనిషూదినీ।",
+    "source_line": 396,
+    "original_number": 756
+  },
+  {
+    "number": 757,
+    "original": "క్షరాక్షరాత్మికా।",
+    "display": "క్షరాక్షరాత్మికా।",
+    "source_line": 398,
+    "original_number": 757
+  },
+  {
+    "number": 758,
+    "original": "సర్వలోకేశీ।",
+    "display": "సర్వలోకేశీ।",
+    "source_line": 398,
+    "original_number": 758
+  },
+  {
+    "number": 759,
+    "original": "విశ్వధారిణీ।",
+    "display": "విశ్వధారిణీ।",
+    "source_line": 398,
+    "original_number": 759
+  },
+  {
+    "number": 760,
+    "original": "త్రివర్గదాత్రీ।",
+    "display": "త్రివర్గదాత్రీ।",
+    "source_line": 399,
+    "original_number": 760
+  },
+  {
+    "number": 761,
+    "original": "సుభగా।",
+    "display": "సుభగా।",
+    "source_line": 399,
+    "original_number": 761
+  },
+  {
+    "number": 762,
+    "original": "త్ర్యంబకా।",
+    "display": "త్ర్యంబకా।",
+    "source_line": 399,
+    "original_number": 762
+  },
+  {
+    "number": 763,
+    "original": "త్రిగుణాత్మికా।",
+    "display": "త్రిగుణాత్మికా।",
+    "source_line": 399,
+    "original_number": 763
+  },
+  {
+    "number": 764,
+    "original": "స్వర్గాపవర్గదా।",
+    "display": "స్వర్గాపవర్గదా।",
+    "source_line": 401,
+    "original_number": 764
+  },
+  {
+    "number": 765,
+    "original": "శుద్ధా।",
+    "display": "శుద్ధా।",
+    "source_line": 401,
+    "original_number": 765
+  },
+  {
+    "number": 766,
+    "original": "జపాపుష్పనిభాకృతిః।",
+    "display": "జపాపుష్పనిభాకృతిః।",
+    "source_line": 401,
+    "original_number": 766
+  },
+  {
+    "number": 767,
+    "original": "ఓజోవతీ।",
+    "display": "ఓజోవతీ।",
+    "source_line": 402,
+    "original_number": 767
+  },
+  {
+    "number": 768,
+    "original": "ద్యుతిధరా।",
+    "display": "ద్యుతిధరా।",
+    "source_line": 402,
+    "original_number": 768
+  },
+  {
+    "number": 769,
+    "original": "యజ్ఞరూపా।",
+    "display": "యజ్ఞరూపా।",
+    "source_line": 402,
+    "original_number": 769
+  },
+  {
+    "number": 770,
+    "original": "ప్రియవ్రతా।",
+    "display": "ప్రియవ్రతా।",
+    "source_line": 402,
+    "original_number": 770
+  },
+  {
+    "number": 771,
+    "original": "దురారాధ్యా।",
+    "display": "దురారాధ్యా।",
+    "source_line": 404,
+    "original_number": 771
+  },
+  {
+    "number": 772,
+    "original": "దురాధర్షా।",
+    "display": "దురాధర్షా।",
+    "source_line": 404,
+    "original_number": 772
+  },
+  {
+    "number": 773,
+    "original": "పాటలీకుసుమప్రియా।",
+    "display": "పాటలీకుసుమప్రియా।",
+    "source_line": 404,
+    "original_number": 773
+  },
+  {
+    "number": 774,
+    "original": "మహతీ।",
+    "display": "మహతీ।",
+    "source_line": 405,
+    "original_number": 774
+  },
+  {
+    "number": 775,
+    "original": "మేరునిలయా।",
+    "display": "మేరునిలయా।",
+    "source_line": 405,
+    "original_number": 775
+  },
+  {
+    "number": 776,
+    "original": "మందారకుసుమప్రియా।",
+    "display": "మందారకుసుమప్రియా।",
+    "source_line": 405,
+    "original_number": 776
+  },
+  {
+    "number": 777,
+    "original": "వీరారాధ్యా।",
+    "display": "వీరారాధ్యా।",
+    "source_line": 407,
+    "original_number": 777
+  },
+  {
+    "number": 778,
+    "original": "విరాడ్రూపా।",
+    "display": "విరాడ్రూపా।",
+    "source_line": 407,
+    "original_number": 778
+  },
+  {
+    "number": 779,
+    "original": "విరజా।",
+    "display": "విరజా।",
+    "source_line": 407,
+    "original_number": 779
+  },
+  {
+    "number": 780,
+    "original": "విశ్వతోముఖీ।",
+    "display": "విశ్వతోముఖీ।",
+    "source_line": 407,
+    "original_number": 780
+  },
+  {
+    "number": 781,
+    "original": "ప్రత్యగ్రూపా।",
+    "display": "ప్రత్యగ్రూపా।",
+    "source_line": 408,
+    "original_number": 781
+  },
+  {
+    "number": 782,
+    "original": "పరాకాశా।",
+    "display": "పరాకాశా।",
+    "source_line": 408,
+    "original_number": 782
+  },
+  {
+    "number": 783,
+    "original": "ప్రాణదా।",
+    "display": "ప్రాణదా।",
+    "source_line": 408,
+    "original_number": 783
+  },
+  {
+    "number": 784,
+    "original": "ప్రాణరూపిణీ।",
+    "display": "ప్రాణరూపిణీ।",
+    "source_line": 408,
+    "original_number": 784
+  },
+  {
+    "number": 785,
+    "original": "మార్తాండభైరవారాధ్యా।",
+    "display": "మార్తాండభైరవారాధ్యా।",
+    "source_line": 410,
+    "original_number": 785
+  },
+  {
+    "number": 786,
+    "original": "మంత్రిణీన్యస్తరాజ్యధూః।",
+    "display": "మంత్రిణీన్యస్తరాజ్యధూః।",
+    "source_line": 410,
+    "original_number": 786
+  },
+  {
+    "number": 787,
+    "original": "త్రిపురేశీ।",
+    "display": "త్రిపురేశీ।",
+    "source_line": 411,
+    "original_number": 787
+  },
+  {
+    "number": 788,
+    "original": "జయత్సేనా।",
+    "display": "జయత్సేనా।",
+    "source_line": 411,
+    "original_number": 788
+  },
+  {
+    "number": 789,
+    "original": "నిస్త్రైగుణ్యా।",
+    "display": "నిస్త్రైగుణ్యా।",
+    "source_line": 411,
+    "original_number": 789
+  },
+  {
+    "number": 790,
+    "original": "పరాపరా।",
+    "display": "పరాపరా।",
+    "source_line": 411,
+    "original_number": 790
+  },
+  {
+    "number": 791,
+    "original": "సత్యజ్ఞానానందరూపా।",
+    "display": "సత్యజ్ఞానానందరూపా।",
+    "source_line": 413,
+    "original_number": 791
+  },
+  {
+    "number": 792,
+    "original": "సామరస్యపరాయణా।",
+    "display": "సామరస్యపరాయణా।",
+    "source_line": 413,
+    "original_number": 792
+  },
+  {
+    "number": 793,
+    "original": "కపర్దినీ।",
+    "display": "కపర్దినీ।",
+    "source_line": 414,
+    "original_number": 793
+  },
+  {
+    "number": 794,
+    "original": "కళామాలా।",
+    "display": "కళామాలా।",
+    "source_line": 414,
+    "original_number": 794
+  },
+  {
+    "number": 795,
+    "original": "కామధుక్।",
+    "display": "కామధుక్।",
+    "source_line": 414,
+    "original_number": 795
+  },
+  {
+    "number": 796,
+    "original": "కామరూపిణీ।",
+    "display": "కామరూపిణీ।",
+    "source_line": 414,
+    "original_number": 796
+  },
+  {
+    "number": 797,
+    "original": "కళానిధిః।",
+    "display": "కళానిధిః।",
+    "source_line": 416,
+    "original_number": 797
+  },
+  {
+    "number": 798,
+    "original": "కావ్యకళా।",
+    "display": "కావ్యకళా।",
+    "source_line": 416,
+    "original_number": 798
+  },
+  {
+    "number": 799,
+    "original": "రసజ్ఞా।",
+    "display": "రసజ్ఞా।",
+    "source_line": 416,
+    "original_number": 799
+  },
+  {
+    "number": 800,
+    "original": "రసశేవధిః।",
+    "display": "రసశేవధిః।",
+    "source_line": 416,
+    "original_number": 800
+  },
+  {
+    "number": 801,
+    "original": "పుష్టా।",
+    "display": "పుష్టా।",
+    "source_line": 417,
+    "original_number": 801
+  },
+  {
+    "number": 802,
+    "original": "పురాతనా।",
+    "display": "పురాతనా।",
+    "source_line": 417,
+    "original_number": 802
+  },
+  {
+    "number": 803,
+    "original": "పూజ్యా।",
+    "display": "పూజ్యా।",
+    "source_line": 417,
+    "original_number": 803
+  },
+  {
+    "number": 804,
+    "original": "పుష్కరా।",
+    "display": "పుష్కరా।",
+    "source_line": 417,
+    "original_number": 804
+  },
+  {
+    "number": 805,
+    "original": "పుష్కరేక్షణా।",
+    "display": "పుష్కరేక్షణా।",
+    "source_line": 417,
+    "original_number": 805
+  },
+  {
+    "number": 806,
+    "original": "పరంజ్యోతిః।",
+    "display": "పరంజ్యోతిః।",
+    "source_line": 419,
+    "original_number": 806
+  },
+  {
+    "number": 807,
+    "original": "పరంధామ।",
+    "display": "పరంధామ।",
+    "source_line": 419,
+    "original_number": 807
+  },
+  {
+    "number": 808,
+    "original": "పరమాణుః।",
+    "display": "పరమాణుః।",
+    "source_line": 419,
+    "original_number": 808
+  },
+  {
+    "number": 809,
+    "original": "పరాత్పరా।",
+    "display": "పరాత్పరా।",
+    "source_line": 419,
+    "original_number": 809
+  },
+  {
+    "number": 810,
+    "original": "పాశహస్తా।",
+    "display": "పాశహస్తా।",
+    "source_line": 420,
+    "original_number": 810
+  },
+  {
+    "number": 811,
+    "original": "పాశహంత్రీ।",
+    "display": "పాశహంత్రీ।",
+    "source_line": 420,
+    "original_number": 811
+  },
+  {
+    "number": 812,
+    "original": "పరమంత్రవిభేదినీ।",
+    "display": "పరమంత్రవిభేదినీ।",
+    "source_line": 420,
+    "original_number": 812
+  },
+  {
+    "number": 813,
+    "original": "మూర్తా।",
+    "display": "మూర్తా।",
+    "source_line": 422,
+    "original_number": 813
+  },
+  {
+    "number": 814,
+    "original": "అమూర్తా।",
+    "display": "అమూర్తా।",
+    "source_line": 422,
+    "original_number": 814
+  },
+  {
+    "number": 815,
+    "original": "అనిత్యతృప్తా।",
+    "display": "అనిత్యతృప్తా।",
+    "source_line": 422,
+    "original_number": 815
+  },
+  {
+    "number": 816,
+    "original": "మునిమానసహంసికా।",
+    "display": "మునిమానసహంసికా।",
+    "source_line": 422,
+    "original_number": 816
+  },
+  {
+    "number": 817,
+    "original": "సత్యవ్రతా।",
+    "display": "సత్యవ్రతా।",
+    "source_line": 423,
+    "original_number": 817
+  },
+  {
+    "number": 818,
+    "original": "సత్యరూపా।",
+    "display": "సత్యరూపా।",
+    "source_line": 423,
+    "original_number": 818
+  },
+  {
+    "number": 819,
+    "original": "సర్వాంతర్యామినీ।",
+    "display": "సర్వాంతర్యామినీ।",
+    "source_line": 423,
+    "original_number": 819
+  },
+  {
+    "number": 820,
+    "original": "సతీ।",
+    "display": "సతీ।",
+    "source_line": 423,
+    "original_number": 820
+  },
+  {
+    "number": 821,
+    "original": "బ్రహ్మాణీ।",
+    "display": "బ్రహ్మాణీ।",
+    "source_line": 425,
+    "original_number": 821
+  },
+  {
+    "number": 822,
+    "original": "బ్రహ్మ।",
+    "display": "బ్రహ్మ।",
+    "source_line": 425,
+    "original_number": 822
+  },
+  {
+    "number": 823,
+    "original": "జననీ।",
+    "display": "జననీ।",
+    "source_line": 425,
+    "original_number": 823
+  },
+  {
+    "number": 824,
+    "original": "బహురూపా।",
+    "display": "బహురూపా।",
+    "source_line": 425,
+    "original_number": 824
+  },
+  {
+    "number": 825,
+    "original": "బుధార్చితా।",
+    "display": "బుధార్చితా।",
+    "source_line": 425,
+    "original_number": 825
+  },
+  {
+    "number": 826,
+    "original": "ప్రసవిత్రీ।",
+    "display": "ప్రసవిత్రీ।",
+    "source_line": 426,
+    "original_number": 826
+  },
+  {
+    "number": 827,
+    "original": "ప్రచండా।",
+    "display": "ప్రచండా।",
+    "source_line": 426,
+    "original_number": 827
+  },
+  {
+    "number": 828,
+    "original": "ఆజ్ఞా।",
+    "display": "ఆజ్ఞా।",
+    "source_line": 426,
+    "original_number": 828
+  },
+  {
+    "number": 829,
+    "original": "ప్రతిష్ఠా।",
+    "display": "ప్రతిష్ఠా।",
+    "source_line": 426,
+    "original_number": 829
+  },
+  {
+    "number": 830,
+    "original": "ప్రకటాకృతిః।",
+    "display": "ప్రకటాకృతిః।",
+    "source_line": 426,
+    "original_number": 830
+  },
+  {
+    "number": 831,
+    "original": "ప్రాణేశ్వరీ।",
+    "display": "ప్రాణేశ్వరీ।",
+    "source_line": 428,
+    "original_number": 831
+  },
+  {
+    "number": 832,
+    "original": "ప్రాణదాత్రీ।",
+    "display": "ప్రాణదాత్రీ।",
+    "source_line": 428,
+    "original_number": 832
+  },
+  {
+    "number": 833,
+    "original": "పంచాశత్పీఠరూపిణీ।",
+    "display": "పంచాశత్పీఠరూపిణీ।",
+    "source_line": 428,
+    "original_number": 833
+  },
+  {
+    "number": 834,
+    "original": "విశృంఖలా।",
+    "display": "విశృంఖలా।",
+    "source_line": 429,
+    "original_number": 834
+  },
+  {
+    "number": 835,
+    "original": "వివిక్తస్థా।",
+    "display": "వివిక్తస్థా।",
+    "source_line": 429,
+    "original_number": 835
+  },
+  {
+    "number": 836,
+    "original": "వీరమాతా।",
+    "display": "వీరమాతా।",
+    "source_line": 429,
+    "original_number": 836
+  },
+  {
+    "number": 837,
+    "original": "వియత్ప్రసూః।",
+    "display": "వియత్ప్రసూః।",
+    "source_line": 429,
+    "original_number": 837
+  },
+  {
+    "number": 838,
+    "original": "ముకుందా।",
+    "display": "ముకుందా।",
+    "source_line": 431,
+    "original_number": 838
+  },
+  {
+    "number": 839,
+    "original": "ముక్తినిలయా।",
+    "display": "ముక్తినిలయా।",
+    "source_line": 431,
+    "original_number": 839
+  },
+  {
+    "number": 840,
+    "original": "మూలవిగ్రహరూపిణీ।",
+    "display": "మూలవిగ్రహరూపిణీ।",
+    "source_line": 431,
+    "original_number": 840
+  },
+  {
+    "number": 841,
+    "original": "భావజ్ఞా।",
+    "display": "భావజ్ఞా।",
+    "source_line": 432,
+    "original_number": 841
+  },
+  {
+    "number": 842,
+    "original": "భవరోగఘ్నీ।",
+    "display": "భవరోగఘ్నీ।",
+    "source_line": 432,
+    "original_number": 842
+  },
+  {
+    "number": 843,
+    "original": "భవచక్రప్రవర్తినీ।",
+    "display": "భవచక్రప్రవర్తినీ।",
+    "source_line": 432,
+    "original_number": 843
+  },
+  {
+    "number": 844,
+    "original": "ఛందస్సారా।",
+    "display": "ఛందస్సారా।",
+    "source_line": 434,
+    "original_number": 844
+  },
+  {
+    "number": 845,
+    "original": "శాస్త్రసారా।",
+    "display": "శాస్త్రసారా।",
+    "source_line": 434,
+    "original_number": 845
+  },
+  {
+    "number": 846,
+    "original": "మంత్రసారా।",
+    "display": "మంత్రసారా।",
+    "source_line": 434,
+    "original_number": 846
+  },
+  {
+    "number": 847,
+    "original": "తలోదరీ।",
+    "display": "తలోదరీ।",
+    "source_line": 434,
+    "original_number": 847
+  },
+  {
+    "number": 848,
+    "original": "ఉదారకీర్తిః।",
+    "display": "ఉదారకీర్తిః।",
+    "source_line": 435,
+    "original_number": 848
+  },
+  {
+    "number": 849,
+    "original": "ఉరద్దామవైభవా।",
+    "display": "ఉరద్దామవైభవా।",
+    "source_line": 435,
+    "original_number": 849
+  },
+  {
+    "number": 850,
+    "original": "వర్ణరూపిణీ।",
+    "display": "వర్ణరూపిణీ।",
+    "source_line": 435,
+    "original_number": 850
+  },
+  {
+    "number": 851,
+    "original": "జన్మమృత్యుజరాతప్తజనవిశ్రాంతిదాయినీ।",
+    "display": "జన్మమృత్యుజరాతప్తజనవిశ్రాంతిదాయినీ।",
+    "source_line": 437,
+    "original_number": 851
+  },
+  {
+    "number": 852,
+    "original": "సర్వోపనిషదుద్ఘుష్టా।",
+    "display": "సర్వోపనిషదుద్ఘుష్టా।",
+    "source_line": 438,
+    "original_number": 852
+  },
+  {
+    "number": 853,
+    "original": "శాంత్యతీతకళాత్మికా।",
+    "display": "శాంత్యతీతకళాత్మికా।",
+    "source_line": 438,
+    "original_number": 853
+  },
+  {
+    "number": 854,
+    "original": "గంభీరా।",
+    "display": "గంభీరా।",
+    "source_line": 439,
+    "original_number": 854
+  },
+  {
+    "number": 855,
+    "original": "గగనాంతస్థా।",
+    "display": "గగనాంతస్థా।",
+    "source_line": 439,
+    "original_number": 855
+  },
+  {
+    "number": 856,
+    "original": "గర్వితా।",
+    "display": "గర్వితా।",
+    "source_line": 439,
+    "original_number": 856
+  },
+  {
+    "number": 857,
+    "original": "గానలోలుపా।",
+    "display": "గానలోలుపా।",
+    "source_line": 439,
+    "original_number": 857
+  },
+  {
+    "number": 858,
+    "original": "కల్పనారహితా।",
+    "display": "కల్పనారహితా।",
+    "source_line": 440,
+    "original_number": 858
+  },
+  {
+    "number": 859,
+    "original": "కాష్ఠా।",
+    "display": "కాష్ఠా।",
+    "source_line": 440,
+    "original_number": 859
+  },
+  {
+    "number": 860,
+    "original": "అకాంతా।",
+    "display": "అకాంతా।",
+    "source_line": 440,
+    "original_number": 860
+  },
+  {
+    "number": 861,
+    "original": "కాంతార్ధవిగ్రహా।",
+    "display": "కాంతార్ధవిగ్రహా।",
+    "source_line": 440,
+    "original_number": 861
+  },
+  {
+    "number": 862,
+    "original": "కార్యకారణనిర్ముక్తా।",
+    "display": "కార్యకారణనిర్ముక్తా।",
+    "source_line": 442,
+    "original_number": 862
+  },
+  {
+    "number": 863,
+    "original": "కామకేళితరంగితా।",
+    "display": "కామకేళితరంగితా।",
+    "source_line": 442,
+    "original_number": 863
+  },
+  {
+    "number": 864,
+    "original": "కనత్కనకతాటంకా।",
+    "display": "కనత్కనకతాటంకా।",
+    "source_line": 443,
+    "original_number": 864
+  },
+  {
+    "number": 865,
+    "original": "లీలావిగ్రహధారిణీ।",
+    "display": "లీలావిగ్రహధారిణీ।",
+    "source_line": 443,
+    "original_number": 865
+  },
+  {
+    "number": 866,
+    "original": "అజా।",
+    "display": "అజా।",
+    "source_line": 445,
+    "original_number": 866
+  },
+  {
+    "number": 867,
+    "original": "క్షయవినిర్ముక్తా।",
+    "display": "క్షయవినిర్ముక్తా।",
+    "source_line": 445,
+    "original_number": 867
+  },
+  {
+    "number": 868,
+    "original": "ముగ్ధా।",
+    "display": "ముగ్ధా।",
+    "source_line": 445,
+    "original_number": 868
+  },
+  {
+    "number": 869,
+    "original": "క్షిప్రప్రసాదినీ।",
+    "display": "క్షిప్రప్రసాదినీ।",
+    "source_line": 445,
+    "original_number": 869
+  },
+  {
+    "number": 870,
+    "original": "అంతర్ముఖసమారాధ్యా।",
+    "display": "అంతర్ముఖసమారాధ్యా।",
+    "source_line": 446,
+    "original_number": 870
+  },
+  {
+    "number": 871,
+    "original": "బహిర్ముఖసుదుర్లభా।",
+    "display": "బహిర్ముఖసుదుర్లభా।",
+    "source_line": 446,
+    "original_number": 871
+  },
+  {
+    "number": 872,
+    "original": "త్రయీ।",
+    "display": "త్రయీ।",
+    "source_line": 447,
+    "original_number": 872
+  },
+  {
+    "number": 873,
+    "original": "త్రివర్గనిలయా।",
+    "display": "త్రివర్గనిలయా।",
+    "source_line": 447,
+    "original_number": 873
+  },
+  {
+    "number": 874,
+    "original": "త్రిస్థా।",
+    "display": "త్రిస్థా।",
+    "source_line": 447,
+    "original_number": 874
+  },
+  {
+    "number": 875,
+    "original": "త్రిపురమాలినీ।",
+    "display": "త్రిపురమాలినీ।",
+    "source_line": 447,
+    "original_number": 875
+  },
+  {
+    "number": 876,
+    "original": "నిరామయా।",
+    "display": "నిరామయా।",
+    "source_line": 448,
+    "original_number": 876
+  },
+  {
+    "number": 877,
+    "original": "నిరాలంబా।",
+    "display": "నిరాలంబా।",
+    "source_line": 448,
+    "original_number": 877
+  },
+  {
+    "number": 878,
+    "original": "స్వాత్మారామా।",
+    "display": "స్వాత్మారామా।",
+    "source_line": 448,
+    "original_number": 878
+  },
+  {
+    "number": 879,
+    "original": "సుధాసృతిః।",
+    "display": "సుధాసృతిః।",
+    "source_line": 448,
+    "original_number": 879
+  },
+  {
+    "number": 880,
+    "original": "సంసారపంకనిర్మగ్నసముద్ధరణపండితా।",
+    "display": "సంసారపంకనిర్మగ్నసముద్ధరణపండితా।",
+    "source_line": 450,
+    "original_number": 880
+  },
+  {
+    "number": 881,
+    "original": "యజ్ఞప్రియా।",
+    "display": "యజ్ఞప్రియా।",
+    "source_line": 451,
+    "original_number": 881
+  },
+  {
+    "number": 882,
+    "original": "యజ్ఞకర్త్రీ।",
+    "display": "యజ్ఞకర్త్రీ।",
+    "source_line": 451,
+    "original_number": 882
+  },
+  {
+    "number": 883,
+    "original": "యజమానస్వరూపిణీ।",
+    "display": "యజమానస్వరూపిణీ।",
+    "source_line": 451,
+    "original_number": 883
+  },
+  {
+    "number": 884,
+    "original": "ధర్మాధారా।",
+    "display": "ధర్మాధారా।",
+    "source_line": 453,
+    "original_number": 884
+  },
+  {
+    "number": 885,
+    "original": "ధనాధ్యక్షా।",
+    "display": "ధనాధ్యక్షా।",
+    "source_line": 453,
+    "original_number": 885
+  },
+  {
+    "number": 886,
+    "original": "ధనధాన్యవివర్ధినీ।",
+    "display": "ధనధాన్యవివర్ధినీ।",
+    "source_line": 453,
+    "original_number": 886
+  },
+  {
+    "number": 887,
+    "original": "విప్రప్రియా।",
+    "display": "విప్రప్రియా।",
+    "source_line": 454,
+    "original_number": 887
+  },
+  {
+    "number": 888,
+    "original": "విప్రరూపా।",
+    "display": "విప్రరూపా।",
+    "source_line": 454,
+    "original_number": 888
+  },
+  {
+    "number": 889,
+    "original": "విశ్వభ్రమణకారిణీ।",
+    "display": "విశ్వభ్రమణకారిణీ।",
+    "source_line": 454,
+    "original_number": 889
+  },
+  {
+    "number": 890,
+    "original": "విశ్వగ్రాసా।",
+    "display": "విశ్వగ్రాసా।",
+    "source_line": 456,
+    "original_number": 890
+  },
+  {
+    "number": 891,
+    "original": "విద్రుమాభా।",
+    "display": "విద్రుమాభా।",
+    "source_line": 456,
+    "original_number": 891
+  },
+  {
+    "number": 892,
+    "original": "వైష్ణవీ।",
+    "display": "వైష్ణవీ।",
+    "source_line": 456,
+    "original_number": 892
+  },
+  {
+    "number": 893,
+    "original": "విష్ణురూపిణీ।",
+    "display": "విష్ణురూపిణీ।",
+    "source_line": 456,
+    "original_number": 893
+  },
+  {
+    "number": 894,
+    "original": "అయోనిః।",
+    "display": "అయోనిః।",
+    "source_line": 457,
+    "original_number": 894
+  },
+  {
+    "number": 895,
+    "original": "యోనినిలయా।",
+    "display": "యోనినిలయా।",
+    "source_line": 457,
+    "original_number": 895
+  },
+  {
+    "number": 896,
+    "original": "కూటస్థా।",
+    "display": "కూటస్థా।",
+    "source_line": 457,
+    "original_number": 896
+  },
+  {
+    "number": 897,
+    "original": "కులరూపిణీ।",
+    "display": "కులరూపిణీ।",
+    "source_line": 457,
+    "original_number": 897
+  },
+  {
+    "number": 898,
+    "original": "వీరగోష్ఠీప్రియా।",
+    "display": "వీరగోష్ఠీప్రియా।",
+    "source_line": 459,
+    "original_number": 898
+  },
+  {
+    "number": 899,
+    "original": "వీరా।",
+    "display": "వీరా।",
+    "source_line": 459,
+    "original_number": 899
+  },
+  {
+    "number": 900,
+    "original": "నైష్కర్మ్యా।",
+    "display": "నైష్కర్మ్యా।",
+    "source_line": 459,
+    "original_number": 900
+  },
+  {
+    "number": 901,
+    "original": "నాదరూపిణీ।",
+    "display": "నాదరూపిణీ।",
+    "source_line": 459,
+    "original_number": 901
+  },
+  {
+    "number": 902,
+    "original": "విజ్ఞానకలనా।",
+    "display": "విజ్ఞానకలనా।",
+    "source_line": 460,
+    "original_number": 902
+  },
+  {
+    "number": 903,
+    "original": "కల్యా।",
+    "display": "కల్యా।",
+    "source_line": 460,
+    "original_number": 903
+  },
+  {
+    "number": 904,
+    "original": "విదగ్ధా।",
+    "display": "విదగ్ధా।",
+    "source_line": 460,
+    "original_number": 904
+  },
+  {
+    "number": 905,
+    "original": "బైందవాసనా।",
+    "display": "బైందవాసనా।",
+    "source_line": 460,
+    "original_number": 905
+  },
+  {
+    "number": 906,
+    "original": "తత్త్వాధికా।",
+    "display": "తత్త్వాధికా।",
+    "source_line": 462,
+    "original_number": 906
+  },
+  {
+    "number": 907,
+    "original": "తత్త్వమయీ।",
+    "display": "తత్త్వమయీ।",
+    "source_line": 462,
+    "original_number": 907
+  },
+  {
+    "number": 908,
+    "original": "తత్త్వమర్థస్వరూపిణీ।",
+    "display": "తత్త్వమర్థస్వరూపిణీ।",
+    "source_line": 462,
+    "original_number": 908
+  },
+  {
+    "number": 909,
+    "original": "సామగానప్రియా।",
+    "display": "సామగానప్రియా।",
+    "source_line": 463,
+    "original_number": 909
+  },
+  {
+    "number": 910,
+    "original": "సౌమ్యా।",
+    "display": "సౌమ్యా।",
+    "source_line": 463,
+    "original_number": 910
+  },
+  {
+    "number": 911,
+    "original": "సదాశివకుటుంబినీ।",
+    "display": "సదాశివకుటుంబినీ।",
+    "source_line": 463,
+    "original_number": 911
+  },
+  {
+    "number": 912,
+    "original": "సవ్యాపసవ్యమార్గస్థా।",
+    "display": "సవ్యాపసవ్యమార్గస్థా।",
+    "source_line": 465,
+    "original_number": 912
+  },
+  {
+    "number": 913,
+    "original": "సర్వాపద్వినివారిణీ।",
+    "display": "సర్వాపద్వినివారిణీ।",
+    "source_line": 465,
+    "original_number": 913
+  },
+  {
+    "number": 914,
+    "original": "స్వస్థా।",
+    "display": "స్వస్థా।",
+    "source_line": 466,
+    "original_number": 914
+  },
+  {
+    "number": 915,
+    "original": "స్వభావమధురా।",
+    "display": "స్వభావమధురా।",
+    "source_line": 466,
+    "original_number": 915
+  },
+  {
+    "number": 916,
+    "original": "ధీరా।",
+    "display": "ధీరా।",
+    "source_line": 466,
+    "original_number": 916
+  },
+  {
+    "number": 917,
+    "original": "ధీరసమర్చితా।",
+    "display": "ధీరసమర్చితా।",
+    "source_line": 466,
+    "original_number": 917
+  },
+  {
+    "number": 918,
+    "original": "చైతన్యార్ఘ్యసమారాధ్యా।",
+    "display": "చైతన్యార్ఘ్యసమారాధ్యా।",
+    "source_line": 468,
+    "original_number": 918
+  },
+  {
+    "number": 919,
+    "original": "చైతన్యకుసుమప్రియా।",
+    "display": "చైతన్యకుసుమప్రియా।",
+    "source_line": 468,
+    "original_number": 919
+  },
+  {
+    "number": 920,
+    "original": "సదోదితా।",
+    "display": "సదోదితా।",
+    "source_line": 469,
+    "original_number": 920
+  },
+  {
+    "number": 921,
+    "original": "సదాతుష్టా।",
+    "display": "సదాతుష్టా।",
+    "source_line": 469,
+    "original_number": 921
+  },
+  {
+    "number": 922,
+    "original": "తరుణాదిత్యపాటలా",
+    "display": "తరుణాదిత్యపాటలా।",
+    "source_line": 469,
+    "original_number": 922
+  },
+  {
+    "number": 923,
+    "original": "దక్షిణాదక్షిణారాధ్యా।",
+    "display": "దక్షిణాదక్షిణారాధ్యా।",
+    "source_line": 471,
+    "original_number": 923
+  },
+  {
+    "number": 924,
+    "original": "దరస్మేరముఖాంబుజా।",
+    "display": "దరస్మేరముఖాంబుజా।",
+    "source_line": 471,
+    "original_number": 924
+  },
+  {
+    "number": 925,
+    "original": "కౌళినీకేవలా।",
+    "display": "కౌళినీకేవలా।",
+    "source_line": 472,
+    "original_number": 925
+  },
+  {
+    "number": 926,
+    "original": "అనర్ఘ్యకైవల్యపదదాయినీ।",
+    "display": "అనర్ఘ్యకైవల్యపదదాయినీ।",
+    "source_line": 472,
+    "original_number": 926
+  },
+  {
+    "number": 927,
+    "original": "స్తోత్రప్రియా।",
+    "display": "స్తోత్రప్రియా।",
+    "source_line": 474,
+    "original_number": 927
+  },
+  {
+    "number": 928,
+    "original": "స్తుతిమతీ।",
+    "display": "స్తుతిమతీ।",
+    "source_line": 474,
+    "original_number": 928
+  },
+  {
+    "number": 929,
+    "original": "శ్రుతిసంస్తుతవైభవా।",
+    "display": "శ్రుతిసంస్తుతవైభవా।",
+    "source_line": 474,
+    "original_number": 929
+  },
+  {
+    "number": 930,
+    "original": "మనస్వినీ।",
+    "display": "మనస్వినీ।",
+    "source_line": 475,
+    "original_number": 930
+  },
+  {
+    "number": 931,
+    "original": "మానవతీ।",
+    "display": "మానవతీ।",
+    "source_line": 475,
+    "original_number": 931
+  },
+  {
+    "number": 932,
+    "original": "మహేశీ।",
+    "display": "మహేశీ।",
+    "source_line": 475,
+    "original_number": 932
+  },
+  {
+    "number": 933,
+    "original": "మంగళాకృతిః।",
+    "display": "మంగళాకృతిః।",
+    "source_line": 475,
+    "original_number": 933
+  },
+  {
+    "number": 934,
+    "original": "విశ్వమాతా।",
+    "display": "విశ్వమాతా।",
+    "source_line": 477,
+    "original_number": 934
+  },
+  {
+    "number": 935,
+    "original": "జగద్ధాత్రీ।",
+    "display": "జగద్ధాత్రీ।",
+    "source_line": 477,
+    "original_number": 935
+  },
+  {
+    "number": 936,
+    "original": "విశాలాక్షీ।",
+    "display": "విశాలాక్షీ।",
+    "source_line": 477,
+    "original_number": 936
+  },
+  {
+    "number": 937,
+    "original": "విరాగిణీ।",
+    "display": "విరాగిణీ।",
+    "source_line": 477,
+    "original_number": 937
+  },
+  {
+    "number": 938,
+    "original": "ప్రగల్భా।",
+    "display": "ప్రగల్భా।",
+    "source_line": 478,
+    "original_number": 938
+  },
+  {
+    "number": 939,
+    "original": "పరమోదారా।",
+    "display": "పరమోదారా।",
+    "source_line": 478,
+    "original_number": 939
+  },
+  {
+    "number": 940,
+    "original": "పరామోదా।",
+    "display": "పరామోదా।",
+    "source_line": 478,
+    "original_number": 940
+  },
+  {
+    "number": 941,
+    "original": "మనోమయీ।",
+    "display": "మనోమయీ।",
+    "source_line": 478,
+    "original_number": 941
+  },
+  {
+    "number": 942,
+    "original": "వ్యోమకేశీ।",
+    "display": "వ్యోమకేశీ।",
+    "source_line": 480,
+    "original_number": 942
+  },
+  {
+    "number": 943,
+    "original": "విమానస్థా।",
+    "display": "విమానస్థా।",
+    "source_line": 480,
+    "original_number": 943
+  },
+  {
+    "number": 944,
+    "original": "వజ్రిణీ।",
+    "display": "వజ్రిణీ।",
+    "source_line": 480,
+    "original_number": 944
+  },
+  {
+    "number": 945,
+    "original": "వామకేశ్వరీ।",
+    "display": "వామకేశ్వరీ।",
+    "source_line": 480,
+    "original_number": 945
+  },
+  {
+    "number": 946,
+    "original": "పంచయజ్ఞప్రియా।",
+    "display": "పంచయజ్ఞప్రియా।",
+    "source_line": 481,
+    "original_number": 946
+  },
+  {
+    "number": 947,
+    "original": "పంచప్రేతమంచాధిశాయినీ।",
+    "display": "పంచప్రేతమంచాధిశాయినీ।",
+    "source_line": 481,
+    "original_number": 947
+  },
+  {
+    "number": 948,
+    "original": "పంచమీ।",
+    "display": "పంచమీ।",
+    "source_line": 483,
+    "original_number": 948
+  },
+  {
+    "number": 949,
+    "original": "పంచభూతేశీ।",
+    "display": "పంచభూతేశీ।",
+    "source_line": 483,
+    "original_number": 949
+  },
+  {
+    "number": 950,
+    "original": "పంచసంఖ్యోపచారిణీ।",
+    "display": "పంచసంఖ్యోపచారిణీ।",
+    "source_line": 483,
+    "original_number": 950
+  },
+  {
+    "number": 951,
+    "original": "శాశ్వతీ।",
+    "display": "శాశ్వతీ।",
+    "source_line": 484,
+    "original_number": 951
+  },
+  {
+    "number": 952,
+    "original": "శాశ్వతైశ్వర్యా।",
+    "display": "శాశ్వతైశ్వర్యా।",
+    "source_line": 484,
+    "original_number": 952
+  },
+  {
+    "number": 953,
+    "original": "శర్మదా।",
+    "display": "శర్మదా।",
+    "source_line": 484,
+    "original_number": 953
+  },
+  {
+    "number": 954,
+    "original": "శంభుమోహినీ।",
+    "display": "శంభుమోహినీ।",
+    "source_line": 485,
+    "original_number": 954
+  },
+  {
+    "number": 955,
+    "original": "ధరా।",
+    "display": "ధరా।",
+    "source_line": 487,
+    "original_number": 955
+  },
+  {
+    "number": 956,
+    "original": "ధరసుతా।",
+    "display": "ధరసుతా।",
+    "source_line": 487,
+    "original_number": 956
+  },
+  {
+    "number": 957,
+    "original": "ధన్యా।",
+    "display": "ధన్యా।",
+    "source_line": 487,
+    "original_number": 957
+  },
+  {
+    "number": 958,
+    "original": "ధర్మిణీ।",
+    "display": "ధర్మిణీ।",
+    "source_line": 487,
+    "original_number": 958
+  },
+  {
+    "number": 959,
+    "original": "ధర్మవర్ధినీ।",
+    "display": "ధర్మవర్ధినీ।",
+    "source_line": 487,
+    "original_number": 959
+  },
+  {
+    "number": 960,
+    "original": "లోకాతీతా।",
+    "display": "లోకాతీతా।",
+    "source_line": 488,
+    "original_number": 960
+  },
+  {
+    "number": 961,
+    "original": "గుణాతీతా।",
+    "display": "గుణాతీతా।",
+    "source_line": 488,
+    "original_number": 961
+  },
+  {
+    "number": 962,
+    "original": "సర్వాతీతా।",
+    "display": "సర్వాతీతా।",
+    "source_line": 488,
+    "original_number": 962
+  },
+  {
+    "number": 963,
+    "original": "శమాత్మికా।",
+    "display": "శమాత్మికా।",
+    "source_line": 488,
+    "original_number": 963
+  },
+  {
+    "number": 964,
+    "original": "బంధూకకుసుమప్రఖ్యా।",
+    "display": "బంధూకకుసుమప్రఖ్యా।",
+    "source_line": 490,
+    "original_number": 964
+  },
+  {
+    "number": 965,
+    "original": "బాలా।",
+    "display": "బాలా।",
+    "source_line": 490,
+    "original_number": 965
+  },
+  {
+    "number": 966,
+    "original": "లీలావినోదినీ।",
+    "display": "లీలావినోదినీ।",
+    "source_line": 490,
+    "original_number": 966
+  },
+  {
+    "number": 967,
+    "original": "సుమంగళీ।",
+    "display": "సుమంగళీ।",
+    "source_line": 491,
+    "original_number": 967
+  },
+  {
+    "number": 968,
+    "original": "సుఖకరీ।",
+    "display": "సుఖకరీ।",
+    "source_line": 491,
+    "original_number": 968
+  },
+  {
+    "number": 969,
+    "original": "సువేషాఢ్యా।",
+    "display": "సువేషాఢ్యా।",
+    "source_line": 491,
+    "original_number": 969
+  },
+  {
+    "number": 970,
+    "original": "సువాసినీ।",
+    "display": "సువాసినీ।",
+    "source_line": 491,
+    "original_number": 970
+  },
+  {
+    "number": 971,
+    "original": "సువాసిన్యర్చనప్రీతా।",
+    "display": "సువాసిన్యర్చనప్రీతా।",
+    "source_line": 493,
+    "original_number": 971
+  },
+  {
+    "number": 972,
+    "original": "ఆశోభనా।",
+    "display": "ఆశోభనా।",
+    "source_line": 493,
+    "original_number": 972
+  },
+  {
+    "number": 973,
+    "original": "శుద్ధమానసా।",
+    "display": "శుద్ధమానసా।",
+    "source_line": 493,
+    "original_number": 973
+  },
+  {
+    "number": 974,
+    "original": "బిందుతర్పణసంతుష్టా।",
+    "display": "బిందుతర్పణసంతుష్టా।",
+    "source_line": 494,
+    "original_number": 974
+  },
+  {
+    "number": 975,
+    "original": "పూర్వజా।",
+    "display": "పూర్వజా।",
+    "source_line": 494,
+    "original_number": 975
+  },
+  {
+    "number": 976,
+    "original": "త్రిపురాంబికా।",
+    "display": "త్రిపురాంబికా।",
+    "source_line": 494,
+    "original_number": 976
+  },
+  {
+    "number": 977,
+    "original": "దశముద్రాసమారాధ్యా।",
+    "display": "దశముద్రాసమారాధ్యా।",
+    "source_line": 495,
+    "original_number": 977
+  },
+  {
+    "number": 978,
+    "original": "త్రిపురా శ్రీవశంకరీ।",
+    "display": "త్రిపురా శ్రీవశంకరీ।",
+    "source_line": 495,
+    "original_number": 978
+  },
+  {
+    "number": 979,
+    "original": "జ్ఞానముద్రా।",
+    "display": "జ్ఞానముద్రా।",
+    "source_line": 496,
+    "original_number": 979
+  },
+  {
+    "number": 980,
+    "original": "జ్ఞానగమ్యా।",
+    "display": "జ్ఞానగమ్యా।",
+    "source_line": 496,
+    "original_number": 980
+  },
+  {
+    "number": 981,
+    "original": "జ్ఞానజ్ఞేయస్వరూపిణీ।",
+    "display": "జ్ఞానజ్ఞేయస్వరూపిణీ।",
+    "source_line": 496,
+    "original_number": 981
+  },
+  {
+    "number": 982,
+    "original": "యోనిముద్రా।",
+    "display": "యోనిముద్రా।",
+    "source_line": 498,
+    "original_number": 982
+  },
+  {
+    "number": 983,
+    "original": "త్రిఖండేశీ।",
+    "display": "త్రిఖండేశీ।",
+    "source_line": 498,
+    "original_number": 983
+  },
+  {
+    "number": 984,
+    "original": "త్రిగుణా।",
+    "display": "త్రిగుణా।",
+    "source_line": 498,
+    "original_number": 984
+  },
+  {
+    "number": 985,
+    "original": "అంబా।",
+    "display": "అంబా।",
+    "source_line": 498,
+    "original_number": 985
+  },
+  {
+    "number": 986,
+    "original": "త్రికోణగా।",
+    "display": "త్రికోణగా।",
+    "source_line": 498,
+    "original_number": 986
+  },
+  {
+    "number": 987,
+    "original": "అనఘా।",
+    "display": "అనఘా।",
+    "source_line": 499,
+    "original_number": 987
+  },
+  {
+    "number": 988,
+    "original": "అద్భుతచారిత్రా।",
+    "display": "అద్భుతచారిత్రా।",
+    "source_line": 499,
+    "original_number": 988
+  },
+  {
+    "number": 989,
+    "original": "వాంఛితార్థప్రదాయినీ।",
+    "display": "వాంఛితార్థప్రదాయినీ।",
+    "source_line": 499,
+    "original_number": 989
+  },
+  {
+    "number": 990,
+    "original": "అభ్యాసాతిశయజ్ఞాతా।",
+    "display": "అభ్యాసాతిశయజ్ఞాతా।",
+    "source_line": 500,
+    "original_number": 990
+  },
+  {
+    "number": 991,
+    "original": "షడధ్వాతీతరూపిణీ।",
+    "display": "షడధ్వాతీతరూపిణీ।",
+    "source_line": 500,
+    "original_number": 991
+  },
+  {
+    "number": 992,
+    "original": "అవ్యాజకరుణామూర్తిః।",
+    "display": "అవ్యాజకరుణామూర్తిః।",
+    "source_line": 501,
+    "original_number": 992
+  },
+  {
+    "number": 993,
+    "original": "అజ్ఞానధ్వాంతదీపికా।",
+    "display": "అజ్ఞానధ్వాంతదీపికా।",
+    "source_line": 501,
+    "original_number": 993
+  },
+  {
+    "number": 994,
+    "original": "ఆబాలగోపవిదితా।",
+    "display": "ఆబాలగోపవిదితా।",
+    "source_line": 503,
+    "original_number": 994
+  },
+  {
+    "number": 995,
+    "original": "సర్వానుల్లంఘ్యశాసనా।",
+    "display": "సర్వానుల్లంఘ్యశాసనా।",
+    "source_line": 503,
+    "original_number": 995
+  },
+  {
+    "number": 996,
+    "original": "శ్రీచక్రరాజనిలయా।",
+    "display": "శ్రీచక్రరాజనిలయా।",
+    "source_line": 504,
+    "original_number": 996
+  },
+  {
+    "number": 997,
+    "original": "శ్రీమత్త్రిపురసుందరీ।",
+    "display": "శ్రీమత్త్రిపురసుందరీ।",
+    "source_line": 504,
+    "original_number": 997
+  },
+  {
+    "number": 998,
+    "original": "శ్రీశివా।",
+    "display": "శ్రీశివా।",
+    "source_line": 506,
+    "original_number": 998
+  },
+  {
+    "number": 999,
+    "original": "శివశక్త్యైక్యరూపిణీ।",
+    "display": "శివశక్త్యైక్యరూపిణీ।",
+    "source_line": 506,
+    "original_number": 999
+  },
+  {
+    "number": 1000,
+    "original": "లలితాంబికా।",
+    "display": "లలితాంబికా।",
+    "source_line": 506,
+    "original_number": 1000
+  }
+]
